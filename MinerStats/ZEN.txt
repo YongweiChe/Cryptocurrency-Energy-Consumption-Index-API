@@ -1,0 +1,2469 @@
+<html lang="en-US"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=0">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="F2Pool is a geographically distributed mining pool, helping miners all over the globe secure Bitcoin and 40+ Proof–of–Work networks since 2013.">
+<meta name="baidu-site-verification" content="code-t0pgjhgFfQ">
+<title>Popular Miners - Mining Revenue Comparison - F2Pool</title>
+<link rel="shortcut icon" href="https://static.f2pool.com/static/images/favicon.ico?v=0355bdb49a472ebaefc3e899bac14d32" type="image/x-icon">
+<link href="https://static.f2pool.com/static/images/apple-icon-114.png?v=5b18823b70e70c2063ac8381c5164776" rel="apple-touch-icon-precomposed">
+<link rel="stylesheet" href="https://static.f2pool.com/static/css/bootstrap-4.6.0.min.css?v=c851740a49ffe876d8c338ec13fffcda" type="text/css">
+<link rel="stylesheet" href="https://static.f2pool.com/static/css/fontawesome-all.min.css?v=ec709ded21f873fe093dd71a0803b8b5" type="text/css">
+<link rel="stylesheet" href="https://static.f2pool.com/static/css/docs_v3.css?v=259d366ea850d21bb763b2c3269d9370" type="text/css">
+
+<link rel="alternate" hreflang="zh-CN" href="https://www.f2pool.com/miners?lang=zh_CN">
+<link rel="alternate" hreflang="zh-TW" href="https://www.f2pool.com/miners?lang=zh_TW">
+<link rel="alternate" hreflang="en-US" href="https://www.f2pool.com/miners?lang=en_US">
+<link rel="alternate" hreflang="es-ES" href="https://www.f2pool.com/miners?lang=es_ES">
+<!--[if lt IE 9]><script src="https://static.f2pool.com/static/js/html5.js?v=69431f1ec831bacf31013dff2872cba0"></script><![endif]-->
+
+<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8;">
+<link rel="stylesheet" type="text/css" href="https://static.f2pool.com/static/css/datatables.min.css?v=842682855fcf81f89985a9603e782a5b">
+<link rel="stylesheet" type="text/css" href="https://static.f2pool.com/static/css/dataTables.fixedColumns.min.css?v=43c86cde4f628ed7f296e1e7254f47ad">
+<link rel="stylesheet" href="https://static.f2pool.com/static/css/miner-main.css?v=3a7f9b2558c6a31bf4bf1a2531875cf5" type="text/css">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PH8KKCQ"></script><script type="text/javascript" src="https://static.f2pool.com/static/js/template-web.js?v=108033b93254e273680a9d9ef64984e6"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PH8KKCQ');
+</script>
+<!-- End Google Tag Manager -->
+<script type="text/javascript">
+if (window.top !== window.self){ window.top.location = window.location; }
+var ieVer = msieversion();
+if (ieVer && ieVer < 10) {
+alert('You are using an unsupported browser, please switch to Chrome or Firefox for a better experience.');
+}
+function msieversion() {
+var ua = window.navigator.userAgent;
+var msie = ua.indexOf("MSIE ");
+if (msie > -1 || !!navigator.userAgent.match(/Trident.*rv\:11\./)) {
+return parseInt(ua.substring(msie + 5, ua.indexOf(".", msie)));
+}
+return false;
+}
+</script>
+<script src="https://static.f2pool.com/static/js/docs.js?v=8200cb6e79d4bbc544c7a46f5e625d94"></script>
+<script src="https://static.geetest.com/static/tools/gt.js"></script>
+</head>
+<body outouchstart="" class=" lang-en_US">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH8KKCQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<div class="page-wrapper  lang-en_US">
+<header class="header   ">
+<nav class="navbar navbar-expand-lg navbar-dark justify-content-between">
+<div class="navbar-brand-container d-flex align-items-center">
+<div class="navbar-brand logo">
+<a href="https://www.f2pool.com/"></a>
+
+</div>
+
+</div>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+<div class="navbar-collapse-inner d-block d-lg-flex">
+
+
+<div class="navbar-nav mr-auto ml-auto order-lg-1">
+
+
+<a class="nav-item nav-link " href="/coins">
+PoW Rankings
+</a>
+<a class="nav-item nav-link active" href="/miners">
+Popular Miners
+</a>
+
+<a class="nav-item nav-link halving-link d-block d-lg-none " href="/halving">
+<span class="fire-icon"></span>Halvings
+</a>
+<div class="nav-item nav-link dropdown dropdown-global-more">
+<a class="dropdown-toggle" style="position: relative" data-toggle="dropdown">
+More <i class="far fa-angle-down"></i>
+<!--<img class="new-badge d-none d-lg-block" src="https://static.f2pool.com/static/images/new-badge.png?v=bfb0f5dd9d35d871f2173b3eb617cd69" />-->
+</a>
+<div class="dropdown-menu">
+<a class="dropdown-item " href="/download">
+App
+</a>
+<a class="dropdown-item " href="/tools">
+Tools
+<!--<span class="icon-text-new">NEW</span>-->
+</a>
+
+<a class="dropdown-item d-none d-lg-inline-block " href="/halving">
+Halvings
+</a>
+<a class="dropdown-item" href="https://blog.f2pool.com/en/home-en" target="_blank">
+Help
+</a>
+
+</div>
+</div>
+
+
+</div>
+<div class="d-block d-lg-inline-block order-lg-0 global-lang-container">
+<div class="dropdown dropdown-global-lang ">
+<span class="dropdown-toggle" data-toggle="dropdown">
+<span class="language-toggle-text">English</span> <i class="far fa-angle-down"></i>
+</span>
+<div class="dropdown-menu">
+
+
+<a class="dropdown-item change-lang" href="#" data-lang="zh_CN">简体中文</a>
+
+
+
+<a class="dropdown-item change-lang" href="#" data-lang="zh_TW">繁体中文</a>
+
+
+
+
+
+<a class="dropdown-item change-lang" href="#" data-lang="es_ES">Español</a>
+
+
+</div>
+</div>
+
+</div>
+
+<div class="sign-container d-flex d-lg-block justify-content-center order-lg-11">
+<a class="btn-signup" href="/user/signup">Create Account</a>
+<a class="btn-signin" href="/user/signin">Sign In</a>
+</div>
+
+</div>
+</div>
+
+<span class="icon-form-search-toggle" data-toggle="modal" data-target="#global-search-modal">
+<i class="fa fa-search"></i>
+</span>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="fa fa-bars"></span>
+</button>
+
+</nav>
+</header>
+<div class="page-main">
+
+<div class="page-top100 container-fluid page-miner-list">
+<div class="row justify-content-center">
+<div class="header col-12 layout-header-in">
+<div class="row justify-content-center d-none d-md-flex">
+<div class="col-12 col-xxl-10">
+<h2>Mining Revenue Comparison<small>One-step Mining Stage</small></h2>
+</div>
+</div>
+</div>
+</div>
+<div class="list-area row justify-content-center">
+<div class="col-12 col-xxl-10">
+<div class="list-area-head">
+<div class="list-area-header list-area-head-inner d-lg-flex justify-content-between">
+<ul class="nav nav-miner-type justify-content-around justify-content-md-start">
+<li class="nav-item">
+<a class="nav-link active" data-type="all">ALL</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" data-type="asic">ASIC</a>
+</li>
+<li class="nav-item d-inline-block d-lg-none">
+<a class="nav-link" data-type="gpu-currency" data-sort="currency">GPU (by Coin)</a>
+</li>
+<li class="nav-item d-inline-block d-lg-none">
+<a class="nav-link" data-type="gpu-miner" data-sort="miner">GPU (by Card)</a>
+</li>
+<li class="nav-item d-none d-lg-inline-block">
+<a class="nav-link dropdown-toggle" data-type="gpu-currency" data-sort="currency" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+GPU (by Coin)
+</a>
+<div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+<a class="dropdown-item active" data-type="gpu-currency">GPU (by Coin)</a>
+<a class="dropdown-item" data-type="gpu-miner">GPU (by Card)</a>
+</div>
+</li>
+</ul>
+<div class="sort-container">
+<div class="search-box search-box-miner d-none d-md-inline-block">
+<input class="form-control" placeholder="Enter the name of miner or currency" value="">
+<i class="fa fa-search icon-"></i>
+<i class="fa fa-times-circle icon-clear-search"></i>
+</div>
+<div class="search-box search-box-miner-list d-none d-md-inline-block hide">
+<input class="form-control dropdown-toggle" id="dropdownMinerMenuLink" data-toggle="dropdown" value="">
+<i class="fa fa-search icon-"></i>
+<div class="checked-miner">GTX 1060 8 cards</div>
+<div class="dropdown-menu dropdown-menu-miner-list" aria-labelledby="dropdownMinerMenuLink"><a class="dropdown-item" data-id="41">RX570 8 cards</a><a class="dropdown-item" data-id="43">RX 580 8 cards</a><a class="dropdown-item" data-id="45">RX 470 8 cards</a><a class="dropdown-item" data-id="48">Galaxy S2 (RX 580)</a><a class="dropdown-item" data-id="49">Snow Panther E3 (RX 570)</a><a class="dropdown-item" data-id="50">Panda B3 Pro (RX 470)</a><a class="dropdown-item" data-id="51">RX 480 8 cards</a><a class="dropdown-item" data-id="53">GTX 1060 8 cards</a><a class="dropdown-item" data-id="55">Calf Miner P2 (NP 102)</a><a class="dropdown-item" data-id="56">Maya D1 (RX 570)</a><a class="dropdown-item" data-id="63">INNOSILICON D9+</a><a class="dropdown-item" data-id="87">BginMiner (RX570 4G)</a><a class="dropdown-item" data-id="89">GTX 1070 8 cards</a><a class="dropdown-item" data-id="91">GTX 1080 8 cards</a><a class="dropdown-item" data-id="93">GTX 1070Ti 8 cards</a><a class="dropdown-item" data-id="95">GTX 1080Ti 8 cards</a><a class="dropdown-item" data-id="96">IMAMBA X1</a><a class="dropdown-item" data-id="114">R9 380 8 cards</a><a class="dropdown-item" data-id="116">R9 390 8 cards</a><a class="dropdown-item" data-id="117">RX 560 8 cards</a><a class="dropdown-item" data-id="118">Fury X 8 cards</a><a class="dropdown-item" data-id="119">Vega56 8 cards</a><a class="dropdown-item" data-id="120">Vega64 8 cards</a><a class="dropdown-item" data-id="121">GTX 750Ti 8 cards</a><a class="dropdown-item" data-id="122">GTX 1050Ti 8 cards</a><a class="dropdown-item" data-id="123">P104 8 cards</a><a class="dropdown-item" data-id="124">GTX TitanV 8 cards</a><a class="dropdown-item" data-id="125">GTX TitanX 8 cards</a><a class="dropdown-item" data-id="126">RTX 2080 8 cards</a><a class="dropdown-item" data-id="136">StrongU STU-U1+</a><a class="dropdown-item" data-id="220">RTX 2080Ti 8 cards</a><a class="dropdown-item" data-id="316">Greatwolf Miner B1</a><a class="dropdown-item" data-id="317">Greatwolf Miner B1+</a><a class="dropdown-item" data-id="318">Greatwolf Miner B3</a><a class="dropdown-item" data-id="319">RX 5700 8 cards</a><a class="dropdown-item" data-id="320">RX 5700XT 8 cards</a><a class="dropdown-item" data-id="321">GTX 1660 8 cards</a><a class="dropdown-item" data-id="322">GTX 1660Ti 8 cards</a><a class="dropdown-item" data-id="337">Panda B7 (RX 580)</a><a class="dropdown-item" data-id="338">Panda B9 (RX 5700XT)</a><a class="dropdown-item" data-id="339">Digital Eth Miner Z8</a><a class="dropdown-item" data-id="340">Digital Eth Miner Z1</a><a class="dropdown-item" data-id="352">RTX 3070 8 cards</a><a class="dropdown-item" data-id="353">RTX 3080 8 cards</a><a class="dropdown-item" data-id="354">RTX 3090 8 cards</a><a class="dropdown-item" data-id="355">RTX 2060S 8 cards</a><a class="dropdown-item" data-id="356">GTX 1660S 8 cards</a><a class="dropdown-item" data-id="357">RTX 3060Ti 8 cards</a><a class="dropdown-item" data-id="358">RX 6700XT 8 cards</a><a class="dropdown-item" data-id="359">RX 6800XT 8 cards</a><a class="dropdown-item" data-id="360">RX 6900XT 8 cards</a><a class="dropdown-item" data-id="361">RX 6800 8 cards</a><a class="dropdown-item" data-id="362">RX 5500XT 8 cards</a><a class="dropdown-item" data-id="363">RX 5600XT 8 cards</a><a class="dropdown-item" data-id="364">RX 590 8 cards</a></div>
+</div>
+<div class="money-change d-flex justify-content-md-end align-items-center">
+<span class="icon-switch order-md-1"><img src="https://static.f2pool.com/static/images/icon-switch-fiat-money-white2.png?v=879a21b969e4395c89edbfb026a5892b"></span>
+<span class="money-name order-md-2">USD</span>
+</div>
+</div>
+</div>
+<div class="currency-select-container currency-select-container-web d-none d-md-flex justify-content-between"><a class="item d-flex align-items-center justify-content-center" data-currency="all" data-display_currency_code="all">All</a><a class="item align-items-center justify-content-center d-flex" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="item align-items-center justify-content-center d-flex" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="item align-items-center justify-content-center d-flex" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="item align-items-center justify-content-center d-flex" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="item align-items-center justify-content-center d-flex" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="item align-items-center justify-content-center d-flex" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="item align-items-center justify-content-center d-flex" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="item align-items-center justify-content-center d-flex" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="item align-items-center justify-content-center d-flex" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="item align-items-center justify-content-center d-flex" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="item align-items-center justify-content-center d-flex active" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="item custom align-items-center justify-content-center d-flex" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.7176078623145206">BCH</a><div class="dropdown dropdown-miner-list"><a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" id="currencySelectDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown" style=""><a class="dropdown-item" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="dropdown-item" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="dropdown-item" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="dropdown-item" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="dropdown-item" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="dropdown-item" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="dropdown-item" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="dropdown-item" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="dropdown-item" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="dropdown-item" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="dropdown-item active" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="dropdown-item" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.7176078623145206">BCH</a><a class="dropdown-item" data-currency="bsv" data-display_currency_code="BSV"><img src="https://static.f2pool.com/assets/currencies/logo/bsv-64x64.png?ver=0.25245664133924306">BSV</a><a class="dropdown-item" data-currency="dgb-sha256d" data-display_currency_code="DGB-SHA256D"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-sha256d-64x64.png?ver=0.7955091282271836">DGB-SHA256D</a><a class="dropdown-item" data-currency="dgb-scrypt" data-display_currency_code="DGB-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-scrypt-64x64.png?ver=0.45879185128006594">DGB-SCRYPT</a><a class="dropdown-item" data-currency="xvg-scrypt" data-display_currency_code="XVG-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-scrypt-64x64.png?ver=0.43839142421922905">XVG-SCRYPT</a><a class="dropdown-item" data-currency="sero" data-display_currency_code="SERO"><img src="https://static.f2pool.com/assets/currencies/logo/sero-64x64.png?ver=0.5291784415916669">SERO</a><a class="dropdown-item" data-currency="xvg-x17" data-display_currency_code="XVG-X17"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-x17-64x64.png?ver=0.8596258365184701">XVG-X17</a><a class="dropdown-item" data-currency="rvn" data-display_currency_code="RVN"><img src="https://static.f2pool.com/assets/currencies/logo/rvn-64x64.png?ver=0.25648797804264856">RVN</a><a class="dropdown-item" data-currency="beam" data-display_currency_code="BEAM"><img src="https://static.f2pool.com/assets/currencies/logo/beam-64x64.png?ver=0.7717980557017803">BEAM</a><a class="dropdown-item" data-currency="cfx" data-display_currency_code="CFX"><img src="https://static.f2pool.com/assets/currencies/logo/cfx-64x64.png?ver=0.060849493220613615">CFX</a><a class="dropdown-item" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png?ver=0.9612620156594491">PGN</a><a class="dropdown-item" data-currency="chi" data-display_currency_code="CHI"><img src="https://static.f2pool.com/assets/currencies/logo/chi-64x64.png?ver=0.9629774163538338">CHI</a><a class="dropdown-item" data-currency="dgb-qubit" data-display_currency_code="DGB-QUBIT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-qubit-64x64.png?ver=0.8740788546044034">DGB-QUBIT</a><a class="dropdown-item" data-currency="xvg-groestl" data-display_currency_code="XVG-GROESTL"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-groestl-64x64.png?ver=0.20166326821743752">XVG-GROESTL</a><a class="dropdown-item" data-currency="dgb-skein" data-display_currency_code="DGB-SKEIN"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-skein-64x64.png?ver=0.921961546130317">DGB-SKEIN</a><a class="dropdown-item" data-currency="btm" data-display_currency_code="BTM"><img src="https://static.f2pool.com/assets/currencies/logo/btm-64x64.png?ver=0.20721124609960406">BTM</a><a class="dropdown-item" data-currency="mona" data-display_currency_code="MONA"><img src="https://static.f2pool.com/assets/currencies/logo/mona-64x64.png?ver=0.9327940008472324">MONA</a><a class="dropdown-item" data-currency="rvc" data-display_currency_code="RVC"><img src="https://static.f2pool.com/assets/currencies/logo/rvc-64x64.png?ver=0.2452695244170091">RVC</a><a class="dropdown-item" data-currency="xvg-lyra" data-display_currency_code="XVG-LYRA2REV2"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-lyra-64x64.png?ver=0.5690692969010567">XVG-LYRA2REV2</a><a class="dropdown-item" data-currency="dgb-odocrypt" data-display_currency_code="DGB-ODOCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-odocrypt-64x64.png?ver=0.2462886052306883">DGB-ODOCRYPT</a><a class="dropdown-item" data-currency="bcd" data-display_currency_code="BCD"><img src="https://static.f2pool.com/assets/currencies/logo/bcd-64x64.png?ver=0.2576770704855216">BCD</a><a class="dropdown-item" data-currency="ckb" data-display_currency_code="CKB"><img src="https://static.f2pool.com/assets/currencies/logo/ckb-64x64.png?ver=0.35339011463682257">CKB</a><a class="dropdown-item" data-currency="hns" data-display_currency_code="HNS"><img src="https://static.f2pool.com/assets/currencies/logo/hns-64x64.png?ver=0.04492307454484301">HNS</a><a class="dropdown-item" data-currency="kda" data-display_currency_code="KDA"><img src="https://static.f2pool.com/assets/currencies/logo/kda-64x64.png?ver=0.5261802483660547">KDA</a><a class="dropdown-item" data-currency="stc" data-display_currency_code="STC"><img src="https://static.f2pool.com/assets/currencies/logo/stc-64x64.png?ver=0.5985270831933966">STC</a></div></div></div>
+</div>
+<div class="list-sort-container d-block d-md-none">
+<div class="list-sort">
+<div class="list-sort-btn list-sort-btn-miner" id="listSortMiner">
+<button class="btn collapsed" type="button" data-toggle="collapse" data-target="#listSortContentMiner">
+<span class="currency">
+All
+</span>;&nbsp;&nbsp;
+<span class="elec-price">
+<input type="number" class="form-control ipt-elec money-val" data-usd="0.05" data-rmb="0.32427500" data-rule="formatPrice_elec" value="" disabled="">
+</span>
+<span class="money-symbol">$</span>
+/kWh;&nbsp;&nbsp;
+<span class="order">
+Descending by 24h profits
+</span>
+<i class="fa"></i>
+</button>
+</div>
+<div class="list-sort-btn list-sort-btn-currency hide" id="listSortCurrency">
+<button class="btn collapsed" type="button" data-toggle="collapse" data-target="#listSortContentCurrency" aria-expanded="false" aria-controls="listSortContentCurrency">
+<span class="miner">
+</span>;&nbsp;&nbsp;
+<span class="elec-price">
+<input type="number" class="form-control ipt-elec money-val" data-usd="0.05" data-rmb="0.32427500" data-rule="formatPrice_elec" value="" disabled="">
+</span>
+<span class="money-symbol">$</span>
+/kWh;&nbsp;&nbsp;
+<span class="order">
+Descending by 24h profits
+</span>
+<i class="fa"></i>
+</button>
+</div>
+</div>
+<div class="list-sort-content list-sort-content-miner collapse" id="listSortContentMiner">
+<button class="btn btn-link btn-currency d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+<div class="title">Currency</div>
+<div class="info"><span></span><i class="fal fa-chevron-down"></i></div>
+</button>
+<div id="collapseOne" class="collapse" aria-labelledby="headingOne">
+<div class="collapse-content currency-select-container currency-select-container-h5 justify-content-between"><a class="item d-flex align-items-center justify-content-center active" data-currency="all" data-display_currency_code="all">All</a><a class="item  align-items-center justify-content-center d-flex" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="item  align-items-center justify-content-center d-flex" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="item  align-items-center justify-content-center d-flex" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="item  align-items-center justify-content-center d-flex" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="item  align-items-center justify-content-center d-flex" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="item  align-items-center justify-content-center d-flex" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="item custom align-items-center justify-content-center d-flex" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.7176078623145206">BCH</a><div class="dropdown dropdown-miner-list"><a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" id="currencySelectDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown"><a class="dropdown-item" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="dropdown-item" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="dropdown-item" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="dropdown-item" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="dropdown-item" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="dropdown-item" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="dropdown-item" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="dropdown-item" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="dropdown-item" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="dropdown-item" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="dropdown-item" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="dropdown-item" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.7176078623145206">BCH</a><a class="dropdown-item" data-currency="bsv" data-display_currency_code="BSV"><img src="https://static.f2pool.com/assets/currencies/logo/bsv-64x64.png?ver=0.25245664133924306">BSV</a><a class="dropdown-item" data-currency="dgb-sha256d" data-display_currency_code="DGB-SHA256D"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-sha256d-64x64.png?ver=0.7955091282271836">DGB-SHA256D</a><a class="dropdown-item" data-currency="dgb-scrypt" data-display_currency_code="DGB-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-scrypt-64x64.png?ver=0.45879185128006594">DGB-SCRYPT</a><a class="dropdown-item" data-currency="xvg-scrypt" data-display_currency_code="XVG-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-scrypt-64x64.png?ver=0.43839142421922905">XVG-SCRYPT</a><a class="dropdown-item" data-currency="sero" data-display_currency_code="SERO"><img src="https://static.f2pool.com/assets/currencies/logo/sero-64x64.png?ver=0.5291784415916669">SERO</a><a class="dropdown-item" data-currency="xvg-x17" data-display_currency_code="XVG-X17"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-x17-64x64.png?ver=0.8596258365184701">XVG-X17</a><a class="dropdown-item" data-currency="rvn" data-display_currency_code="RVN"><img src="https://static.f2pool.com/assets/currencies/logo/rvn-64x64.png?ver=0.25648797804264856">RVN</a><a class="dropdown-item" data-currency="beam" data-display_currency_code="BEAM"><img src="https://static.f2pool.com/assets/currencies/logo/beam-64x64.png?ver=0.7717980557017803">BEAM</a><a class="dropdown-item" data-currency="cfx" data-display_currency_code="CFX"><img src="https://static.f2pool.com/assets/currencies/logo/cfx-64x64.png?ver=0.060849493220613615">CFX</a><a class="dropdown-item" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png?ver=0.9612620156594491">PGN</a><a class="dropdown-item" data-currency="chi" data-display_currency_code="CHI"><img src="https://static.f2pool.com/assets/currencies/logo/chi-64x64.png?ver=0.9629774163538338">CHI</a><a class="dropdown-item" data-currency="dgb-qubit" data-display_currency_code="DGB-QUBIT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-qubit-64x64.png?ver=0.8740788546044034">DGB-QUBIT</a><a class="dropdown-item" data-currency="xvg-groestl" data-display_currency_code="XVG-GROESTL"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-groestl-64x64.png?ver=0.20166326821743752">XVG-GROESTL</a><a class="dropdown-item" data-currency="dgb-skein" data-display_currency_code="DGB-SKEIN"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-skein-64x64.png?ver=0.921961546130317">DGB-SKEIN</a><a class="dropdown-item" data-currency="btm" data-display_currency_code="BTM"><img src="https://static.f2pool.com/assets/currencies/logo/btm-64x64.png?ver=0.20721124609960406">BTM</a><a class="dropdown-item" data-currency="mona" data-display_currency_code="MONA"><img src="https://static.f2pool.com/assets/currencies/logo/mona-64x64.png?ver=0.9327940008472324">MONA</a><a class="dropdown-item" data-currency="rvc" data-display_currency_code="RVC"><img src="https://static.f2pool.com/assets/currencies/logo/rvc-64x64.png?ver=0.2452695244170091">RVC</a><a class="dropdown-item" data-currency="xvg-lyra" data-display_currency_code="XVG-LYRA2REV2"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-lyra-64x64.png?ver=0.5690692969010567">XVG-LYRA2REV2</a><a class="dropdown-item" data-currency="dgb-odocrypt" data-display_currency_code="DGB-ODOCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-odocrypt-64x64.png?ver=0.2462886052306883">DGB-ODOCRYPT</a><a class="dropdown-item" data-currency="bcd" data-display_currency_code="BCD"><img src="https://static.f2pool.com/assets/currencies/logo/bcd-64x64.png?ver=0.2576770704855216">BCD</a><a class="dropdown-item" data-currency="ckb" data-display_currency_code="CKB"><img src="https://static.f2pool.com/assets/currencies/logo/ckb-64x64.png?ver=0.35339011463682257">CKB</a><a class="dropdown-item" data-currency="hns" data-display_currency_code="HNS"><img src="https://static.f2pool.com/assets/currencies/logo/hns-64x64.png?ver=0.04492307454484301">HNS</a><a class="dropdown-item" data-currency="kda" data-display_currency_code="KDA"><img src="https://static.f2pool.com/assets/currencies/logo/kda-64x64.png?ver=0.5261802483660547">KDA</a><a class="dropdown-item" data-currency="stc" data-display_currency_code="STC"><img src="https://static.f2pool.com/assets/currencies/logo/stc-64x64.png?ver=0.5985270831933966">STC</a></div></div></div>
+</div>
+<button class="btn btn-link btn-elec d-flex justify-content-between align-items-center" aria-expanded="true">
+<div class="title">Electricity Price</div>
+<div class="info d-flex">
+<input type="number" class="form-control money-val" value="">
+<div class="input-group-append">
+<span class="input-group-text">
+<span class="money-symbol">$</span>
+/kWh
+</span>
+</div>
+</div>
+</button>
+<button class="btn btn-link btn-sort d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseOne">
+<div class="title"></div>
+<div class="info"><i class="fal fa-chevron-down"></i></div>
+</button>
+<div id="collapseTwo" class="collapse" aria-labelledby="headingOne">
+<div class="collapse-content order-type-container">
+<div class="item" data-sort="profit_24h" data-type="desc">Descending by 24h profits</div>
+<div class="item" data-sort="profit_24h" data-type="asc">Ascending by 24h profits</div>
+<div class="item" data-sort="hashrate" data-type="desc">Descending by miner hashrate</div>
+<div class="item" data-sort="hashrate" data-type="asc">Ascending by miner hashrate</div>
+<div class="item" data-sort="power" data-type="asc">Ascending by power consumption</div>
+<div class="item" data-sort="power" data-type="desc">Descending by power consumption</div>
+<div class="item" data-sort="elec_rate" data-type="asc">Ascending by electricity cost rate</div>
+<div class="item" data-sort="elec_rate" data-type="desc">Descending by electricity cost rate</div>
+</div>
+</div>
+<button class="btn btn-link btn-submit">
+Filter
+</button>
+</div>
+<div class="list-sort-content list-sort-content-currency collapse" id="listSortContentCurrency">
+<button class="btn btn-link btn-miner d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+<div class="title"></div>
+<div class="info"><i class="fal fa-chevron-down"></i></div>
+</button>
+<div id="collapseThree" class="collapse" aria-labelledby="headingOne">
+<div class="collapse-content miner-select-container"><a class="item" data-id="41">RX570 8 cards</a><a class="item" data-id="43">RX 580 8 cards</a><a class="item" data-id="45">RX 470 8 cards</a><a class="item" data-id="48">Galaxy S2 (RX 580)</a><a class="item" data-id="49">Snow Panther E3 (RX 570)</a><a class="item" data-id="50">Panda B3 Pro (RX 470)</a><a class="item" data-id="51">RX 480 8 cards</a><a class="item" data-id="53">GTX 1060 8 cards</a><a class="item" data-id="55">Calf Miner P2 (NP 102)</a><a class="item" data-id="56">Maya D1 (RX 570)</a><a class="item" data-id="63">INNOSILICON D9+</a><a class="item" data-id="87">BginMiner (RX570 4G)</a><a class="item" data-id="89">GTX 1070 8 cards</a><a class="item" data-id="91">GTX 1080 8 cards</a><a class="item" data-id="93">GTX 1070Ti 8 cards</a><a class="item" data-id="95">GTX 1080Ti 8 cards</a><a class="item" data-id="96">IMAMBA X1</a><a class="item" data-id="114">R9 380 8 cards</a><a class="item" data-id="116">R9 390 8 cards</a><a class="item" data-id="117">RX 560 8 cards</a><a class="item" data-id="118">Fury X 8 cards</a><a class="item" data-id="119">Vega56 8 cards</a><a class="item" data-id="120">Vega64 8 cards</a><a class="item" data-id="121">GTX 750Ti 8 cards</a><a class="item" data-id="122">GTX 1050Ti 8 cards</a><a class="item" data-id="123">P104 8 cards</a><a class="item" data-id="124">GTX TitanV 8 cards</a><a class="item" data-id="125">GTX TitanX 8 cards</a><a class="item" data-id="126">RTX 2080 8 cards</a><a class="item" data-id="136">StrongU STU-U1+</a><a class="item" data-id="220">RTX 2080Ti 8 cards</a><a class="item" data-id="316">Greatwolf Miner B1</a><a class="item" data-id="317">Greatwolf Miner B1+</a><a class="item" data-id="318">Greatwolf Miner B3</a><a class="item" data-id="319">RX 5700 8 cards</a><a class="item" data-id="320">RX 5700XT 8 cards</a><a class="item" data-id="321">GTX 1660 8 cards</a><a class="item" data-id="322">GTX 1660Ti 8 cards</a><a class="item" data-id="337">Panda B7 (RX 580)</a><a class="item" data-id="338">Panda B9 (RX 5700XT)</a><a class="item" data-id="339">Digital Eth Miner Z8</a><a class="item" data-id="340">Digital Eth Miner Z1</a><a class="item" data-id="352">RTX 3070 8 cards</a><a class="item" data-id="353">RTX 3080 8 cards</a><a class="item" data-id="354">RTX 3090 8 cards</a><a class="item" data-id="355">RTX 2060S 8 cards</a><a class="item" data-id="356">GTX 1660S 8 cards</a><a class="item" data-id="357">RTX 3060Ti 8 cards</a><a class="item" data-id="358">RX 6700XT 8 cards</a><a class="item" data-id="359">RX 6800XT 8 cards</a><a class="item" data-id="360">RX 6900XT 8 cards</a><a class="item" data-id="361">RX 6800 8 cards</a><a class="item" data-id="362">RX 5500XT 8 cards</a><a class="item" data-id="363">RX 5600XT 8 cards</a><a class="item" data-id="364">RX 590 8 cards</a></div>
+</div>
+<button class="btn btn-link btn-elec d-flex justify-content-between align-items-center" aria-expanded="true">
+<div class="title">Electricity Price</div>
+<div class="info d-flex">
+<input type="number" class="form-control money-val" value="">
+<div class="input-group-append">
+<span class="input-group-text">
+<span class="money-symbol">$</span>
+/kWh
+</span>
+</div>
+</div>
+</button>
+<button class="btn btn-link btn-sort d-flex justify-content-between align-items-center" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+<div class="title" data-sort="profit_24h" data-type="desc">Descending by 24h profits</div>
+<div class="info"><i class="fal fa-chevron-down"></i></div>
+</button>
+<div id="collapseFour" class="collapse" aria-labelledby="headingOne">
+<div class="collapse-content order-type-container">
+<div class="item" data-sort="profit_24h" data-type="desc">Descending by 24h profits</div>
+<div class="item" data-sort="profit_24h" data-type="asc">Ascending by 24h profits</div>
+<div class="item" data-sort="revenue_24h" data-type="desc">Descending by 24h produced</div>
+<div class="item" data-sort="revenue_24h" data-type="asc">Ascending by 24h produced</div>
+</div>
+</div>
+<button class="btn btn-link btn-submit">
+Filter
+</button>
+</div>
+</div>
+<div class="list-container-inner">
+<div class="sort-by-miner">
+<div class="list-container list-container-left">
+<div class="list-header" style="width: 200px;">
+<div class="list-row row no-gutters align-items-center justify-content-center">
+<div class="col">Miner
+<span class="list-head-secondary d-block d-md-none">Coins</span>
+</div>
+</div>
+</div>
+<div class="list-body">
+
+<div class="list-row row no-gutters align-items-center" data-name="MultMiner C4 (RandomX)" data-id="334">
+<div class="col">
+<span class="font-weight-bold font-weight-md-normal">MultMiner C4 </span>
+<br><small>(RandomX)</small>
+<span class="d-block d-md-none">XMR</span>
+</div>
+</div>
+
+</div>
+</div>
+<div class="list-container list-container-right currency-all" id="listContainer">
+<div class="list-wrapper">
+<div class="list-header" style="width: 1000px;">
+<div class="list-row row no-gutters align-items-center justify-content-center" style="width: 1000px;">
+
+<div class="col d-none d-md-block">Coins</div>
+
+<div class="col col-sort">
+<span class="d-none d-md-inline">Hashrate</span><span class="sortable d-none d-md-inline-block" data-sort="hashrate"></span>
+<div class="d-block d-md-none">Revenue / <br class="zh-hide">Electricity Cost
+<div class="list-head-secondary">Hashrate<span class="es-hide en-hide"> </span>/<span class="es-hide en-hide"> </span>Power Consumption</div>
+</div>
+</div>
+<div class="col col-sort d-none d-md-block">Power Consumption<span class="sortable" data-sort="power"></span></div>
+<div class="col col-sort d-none d-md-block">Unit Power<span class="sortable" data-sort="unit_power"></span></div>
+<div class="col col-sort d-none d-md-block">Produced (24h)<span class="sortable" data-sort="coins_24h"></span></div>
+<div class="col col-sort d-none d-md-block">Revenue (24h)<span class="sortable" data-sort="revenue_24h"></span></div>
+<div class="col d-none d-md-block">
+Daily Cost<input type="text" class="form-control ipt-elec money-val" data-usd="0.05" data-rmb="0.32427500" data-rule="formatPrice_elec" value=""><span class="money-symbol">$</span> /kWh
+</div>
+<div class="col col-sort">
+<div class="d-none d-md-inline-block">Profits (24h)<span class="sortable desc d-none d-md-inline-block" data-sort="profit_24h"></span></div>
+<div class="d-block d-md-none">Profits</div>
+<div class="d-block d-md-none list-head-secondary">Electricity Cost Rate</div>
+</div>
+<div class="col col-sort d-none d-md-block">
+Electricity Cost Rate<span class="sortable" data-sort="elec_rate"></span> <span class="icon-tips" id="elecTooltip" data-original-title="" title=""></span>
+</div>
+</div>
+</div>
+<div class="list-body">
+
+<div class="list-row row no-gutters align-items-center" data-name="MultMiner C4 (RandomX)" data-id="334">
+
+<div class="col d-none d-md-block" data-key="corrency_code">
+XMR
+</div>
+
+<div class="col" data-key="hashrate" data-val="75000">
+<div class="d-block d-md-none font-weight-bold">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="4.176331" data-rule="formatPrice">
+4.18
+</span> / <span class="money-symbol">$</span>
+<span class="money-val" data-usd="1.200000" data-rule="formatPrice">
+1.20
+</span>
+</div>
+<div class="d-none d-md-inline-block">75<span class="unit">K</span></div>
+<div class="d-block d-md-none">
+75<span class="unit">K</span>
+/ 1000<span class="unit">W</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="power">
+1000<span class="unit">W</span>
+</div>
+<div class="col d-none d-md-block" data-key="unit_power">
+13<span class="unit">W/K</span>
+</div>
+<div class="col d-none d-md-block" data-key="coins_24h">
+0.02046238<span class="unit">XMR</span>
+</div>
+<div class="col d-none d-md-block" data-key="revenue_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="4.176331" data-rule="formatPrice">
+4.18
+</span>
+</div>
+<div class="col d-none d-md-block" data-key="elec_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="1.200000" data-rule="formatPrice">
+1.20
+</span>
+</div>
+<div class="col" data-key="profit_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="2.976331" data-rule="formatPrice_digit">
+2.98
+</span>
+<div class="d-block d-md-none">
+29<span class="unit">%</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="elec_rate">
+<div class="progress">
+<div class="progress-bar bg-1" role="progressbar" style="width: 28.7%"></div>
+<span class="percent-text">29%</span>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class="list-container-empty" style="display: none;">
+No data
+</div>
+</div>
+<div class="sort-by-currency hide">
+<table style="width: 100%" id="sort-by-currency-table">
+<thead>
+<tr>
+<th>Coins</th>
+<th>
+<div class="d-none d-md-block">Hashrate</div>
+<div class="d-block d-md-none">Produced (24h)/Revenue (24h)
+<div class="secondary">Current Price/Daily Cost</div>
+</div>
+</th>
+<th class="d-none d-md-table-cell">Produced (24h)</th>
+<th class="d-none d-md-table-cell">Current Price</th>
+<th class="d-none d-md-table-cell">Revenue (24h)</th>
+<th class="d-none d-md-table-cell">Daily Cost
+<input type="text" class="form-control ipt-elec money-val" data-usd="0.05" data-rmb="0.32427500" data-rule="formatPrice_elec" value="">
+<span class="money-symbol">$</span> /kWh
+</th>
+<th class="d-none d-md-table-cell">Profits (24h)</th>
+<th class="d-none d-md-table-cell">Actions</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script id="tpl-list-left" type="text/html">
+[[ each data ]]
+<div class="list-row row no-gutters align-items-center" data-name="[[ $value.name ]]" data-id="[[ $value.id ]]">
+<div class="col">
+<span class="font-weight-bold font-weight-md-normal">[[ $value.name.split(/\(|（/)[0] ]]</span>
+[[ if $value.name.split(/\(|（/)[1] ]]<br><small>([[ $value.name.split(/\(|（/)[1].split(/\)|）/)[0] ]])</small>[[ /if ]]
+<span class="d-block d-md-none">[[ $value.display_currency_code ]]</span>
+</div>
+</div>
+[[ /each ]]
+</script>
+<script id="tpl-list" type="text/html">
+[[ each data ]]
+<div class="list-row row no-gutters align-items-center" data-name="[[ $value.name ]]" data-id="[[ $value.id ]]">
+
+<div class="col d-none d-md-block" data-key="corrency_code">
+[[ $value.display_currency_code ]]
+</div>
+
+<div class="col" data-key="hashrate" data-val="[[ $value.hashrate ]]">
+<div class="d-block d-md-none font-weight-bold">
+<span class="money-symbol">[[ symbol ]]</span>
+<span class="money-val" data-usd="[[ $value.revenue_24h ]]" data-rule="formatPrice">
+[[ $value.revenue_24h | formatPrice ]]
+</span> / <span class="money-symbol">[[ symbol ]]</span>
+<span class="money-val" data-usd="[[ $value.elec_24h ]]" data-rule="formatPrice">
+[[ $value.elec_24h | formatPrice ]]
+</span>
+</div>
+<div class="d-none d-md-inline-block">[[ $value.hashrate_unit_value ]]<span class="unit">[[ $value.hashrate_unit_str ]]</span></div>
+<div class="d-block d-md-none">
+[[ $value.hashrate_unit_value ]]<span class="unit">[[ $value.hashrate_unit_str ]]</span>
+/ [[ $value.power ]]<span class="unit">W</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="power">
+[[ $value.power ]]<span class="unit">W</span>
+</div>
+<div class="col d-none d-md-block" data-key="unit_power">
+[[ $value.unit_power ]]<span class="unit">W/[[ $value.hashrate_unit_str ]]</span>
+</div>
+<div class="col d-none d-md-block" data-key="coins_24h">
+[[ $value.coins_24h ]]<span class="unit">[[ $value.display_currency_code.split('-')[0] ]]</span>
+</div>
+<div class="col d-none d-md-block" data-key="revenue_24h">
+<span class="money-symbol">[[ symbol ]]</span>
+<span class="money-val" data-usd="[[ $value.revenue_24h ]]" data-rule="formatPrice">
+[[ $value.revenue_24h | formatPrice ]]
+</span>
+</div>
+<div class="col d-none d-md-block" data-key="elec_24h">
+<span class="money-symbol">[[ symbol ]]</span>
+<span class="money-val" data-usd="[[ $value.elec_24h ]]" data-rule="formatPrice">
+[[ $value.elec_24h | formatPrice ]]
+</span>
+</div>
+<div class="col" data-key="profit_24h">
+<span class="money-symbol">[[ symbol ]]</span>
+<span class="money-val" data-usd="[[ $value.profit_24h ]]" data-rule="formatPrice_digit">
+[[ $value.profit_24h | formatPrice_digit 2 ]]
+</span>
+<div class="d-block d-md-none">
+[[ ($value.elec_24h / $value.revenue_24h * 100).toFixed(0) ]]<span class="unit">%</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="elec_rate">
+<div class="progress">
+<div class="progress-bar bg-[[ if $value.elec_rate < 0.5 ]]1[[ else if $value.elec_rate < 0.8 ]]2[[ else if $value.elec_rate < 0.99 ]]3[[ else ]]4[[ /if ]]" role="progressbar" style="width: [[ ($value.elec_rate * 100).toFixed(1) ]]%"></div>
+<span class="percent-text">[[ ($value.elec_rate * 100).toFixed(0) ]]%</span>
+</div>
+</div>
+</div>
+[[ /each ]]
+</script>
+
+</div>
+<footer class="footer container-fluid">
+<div class="row justify-content-center">
+<div class="col-12 col-md-11 col-xl-10 main-info">
+<div class="row no-gutters">
+<div class="col-12 col-lg-4 d-flex flex-column align-items-center footer-main">
+<div class="d-inline-block text-center text-lg-left">
+<a class="footer-logo d-block" href="/">
+<img src="https://static.f2pool.com/static/images/icon-logo-blue.png?v=61203ce4a88d7b74b63d8614c410b5a1">
+</a>
+<div class="footer-info">
+<div>© 2013–2021 F2Pool. All rights reserved.</div>
+</div>
+<ul class="footer-social text-center text-lg-left">
+
+<li>
+<a href="https://www.youtube.com/channel/UCpOxf600N5n8HpyVejvEJMg" target="_blank" rel="nofollow noopener noreferrer">
+<span class="social-icon youtube"><i class="fab fa-youtube"></i></span>
+</a>
+</li>
+<li>
+<a href="https://twitter.com/F2Pool_Official" target="_blank" rel="nofollow noopener noreferrer">
+<span class="social-icon twitter"><i class="fab fa-twitter"></i></span>
+</a>
+</li>
+<li>
+<a href="https://www.reddit.com/r/f2pool" target="_blank" rel="nofollow noopener noreferrer">
+<span class="social-icon reddit"><i class="fab fa-reddit"></i></span>
+</a>
+</li>
+
+
+</ul>
+</div>
+</div>
+<div class="col-12 col-lg-8 container-links">
+<div class="row no-gutters">
+<div class="col-3 text-center">
+<div class="footer-link-item">
+<h3>Products</h3><br>
+<a href="/download" target="_blank">App Download</a><br>
+<a href="/coins" target="_blank">PoW Rankings</a><br>
+<a href="/miners" target="_blank">Popular Miners</a><br>
+
+</div>
+</div>
+<div class="col-3 text-center">
+<div class="footer-link-item">
+<h3>Services</h3><br>
+<a href="/developer/api" target="_blank">API Docs</a><br>
+
+
+
+</div>
+</div>
+<div class="col-3 text-center">
+<div class="footer-link-item">
+<h3>Helps</h3><br>
+
+<a href="https://f2pool.io/mining/guides/" target="_blank">Mining Tutorial</a><br>
+<a href="https://f2pool.io/mining/updates/" target="_blank">Announcements</a><br>
+<a href="https://f2pool.io/mining/support/" target="_blank">FAQ</a><br>
+<a href="/zendesk/help" target="_blank">Submit Request</a><br>
+</div>
+</div>
+<div class="col-3 text-center">
+<div class="footer-link-item">
+<h3>Contact Us</h3><br>
+
+
+<a href="mailto:business@f2pool.com">Partnerships</a><br>
+<a href="mailto:support@f2pool.com">Contact Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</footer>
+<div class="btn-global-to-top"></div>
+</div>
+<div class="modal fade modal-global-search" id="global-search-modal">
+<div class="modal-dialog modal-lg modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<span class="close" data-dismiss="modal" aria-label="Close"></span>
+<div class="global-search-form-container text-center">
+<img class="d-none d-lg-inline-block" src="https://static.f2pool.com/static/images/icon-global-search-form.png?v=74a74b5b18b8c1078643d28cea8c7214" style="width: 176px;">
+<h2 class="d-none d-lg-block">Search Address</h2>
+<form action="/jump" id="addressSearchForm" class="form-nav-search form-inline">
+<input type="hidden" name="currency" id="input-currency">
+<div class="input-group">
+<div class="input-group-prepend collapsed" id="currency-toggle" data-toggle="collapse" data-target="#currencyListMenu" aria-haspopup="true" aria-expanded="false">
+<button class="btn btn-prepend" type="button">Currency</button>
+<i class="fa fa-caret-up icon-toggle"></i>
+</div>
+<input id="input-address" class="input-md form-control" type="text" name="miner-address" placeholder="Input your wallet address">
+<i class="fa fa-times-circle icon-clear-search" style="display: none;"></i>
+<div class="d-none d-lg-flex input-group-append">
+<button class="btn" type="submit" disabled="">Go</button>
+</div>
+</div>
+<div class="search-btn-container d-inline-block d-lg-none">
+<button class="btn" type="submit" disabled="">Go</button>
+</div>
+<div class="currency-list-menu collapse" id="currencyListMenu" data-parent="#currency-toggle">
+
+
+
+
+
+<a class="currency-item bcd" href="#" data-key="bcd" data-urlname="bcd" data-display-code="BCD">
+<img src="https://static.f2pool.com/static/images/currency-bcd.png?v=902aff348a5753033c5401fb69566758">
+BCD
+</a>
+
+
+
+
+
+<a class="currency-item bch" href="#" data-key="bch" data-urlname="bch" data-display-code="BCH">
+<img src="https://static.f2pool.com/static/images/currency-bch.png?v=d7bd77476e51896095c8bb9a9632928c">
+BCH
+</a>
+
+
+
+
+
+<a class="currency-item beam" href="#" data-key="beam" data-urlname="beam" data-display-code="BEAM">
+<img src="https://static.f2pool.com/static/images/currency-beam.png?v=9ea3f648ba7308f87d4c467f3ec19536">
+BEAM
+</a>
+
+
+
+
+
+<a class="currency-item bsv" href="#" data-key="bsv" data-urlname="bsv" data-display-code="BSV">
+<img src="https://static.f2pool.com/static/images/currency-bsv.png?v=3ca4d7ea931b4756c734725de5293628">
+BSV
+</a>
+
+
+
+
+
+
+
+<a class="currency-item btm" href="#" data-key="btm" data-urlname="btm" data-display-code="BTM">
+<img src="https://static.f2pool.com/static/images/currency-btm.png?v=7e992e39e25c17215310c9119d539058">
+BTM
+</a>
+
+
+
+
+
+
+
+<a class="currency-item chi" href="#" data-key="chi" data-urlname="chi" data-display-code="CHI">
+<img src="https://static.f2pool.com/static/images/currency-chi.png?v=424ff46999d65851de326c77bf9aaa15">
+CHI
+</a>
+
+
+
+
+
+<a class="currency-item ckb" href="#" data-key="ckb" data-urlname="nervos" data-display-code="CKB">
+<img src="https://static.f2pool.com/static/images/currency-ckb.png?v=4961326854f80ebf3c0d2e0c9cf67680">
+CKB
+</a>
+
+
+
+
+
+<a class="currency-item dash" href="#" data-key="dash" data-urlname="dash" data-display-code="DASH">
+<img src="https://static.f2pool.com/static/images/currency-dash.png?v=250d4154a67b3012a68896ab67ec3755">
+DASH
+</a>
+
+
+
+
+
+<a class="currency-item dcr" href="#" data-key="dcr" data-urlname="decred" data-display-code="DCR">
+<img src="https://static.f2pool.com/static/images/currency-dcr.png?v=5f6226a668290c88374b28373ce6e2e9">
+DCR
+</a>
+
+
+
+
+
+<a class="currency-item dgb-odocrypt" href="#" data-key="dgb-odocrypt" data-urlname="digibyte-odocrypt" data-display-code="DGB-ODOCRYPT">
+<img src="https://static.f2pool.com/static/images/currency-dgb.png?v=12232409baab6f6d087d0b821486712a">
+DGB-ODOCRYPT
+</a>
+
+
+
+
+
+<a class="currency-item dgb-qubit" href="#" data-key="dgb-qubit" data-urlname="digibyte-qubit" data-display-code="DGB-QUBIT">
+<img src="https://static.f2pool.com/static/images/currency-dgb.png?v=12232409baab6f6d087d0b821486712a">
+DGB-QUBIT
+</a>
+
+
+
+
+
+<a class="currency-item dgb-scrypt" href="#" data-key="dgb-scrypt" data-urlname="digibyte-scrypt" data-display-code="DGB-SCRYPT">
+<img src="https://static.f2pool.com/static/images/currency-dgb.png?v=12232409baab6f6d087d0b821486712a">
+DGB-SCRYPT
+</a>
+
+
+
+
+
+<a class="currency-item dgb-sha256d" href="#" data-key="dgb-sha256d" data-urlname="digibyte-sha256d" data-display-code="DGB-SHA256D">
+<img src="https://static.f2pool.com/static/images/currency-dgb.png?v=12232409baab6f6d087d0b821486712a">
+DGB-SHA256D
+</a>
+
+
+
+
+
+<a class="currency-item dgb-skein" href="#" data-key="dgb-skein" data-urlname="digibyte-skein" data-display-code="DGB-SKEIN">
+<img src="https://static.f2pool.com/static/images/currency-dgb.png?v=12232409baab6f6d087d0b821486712a">
+DGB-SKEIN
+</a>
+
+
+
+
+
+<a class="currency-item etc" href="#" data-key="etc" data-urlname="etc" data-display-code="ETC">
+<img src="https://static.f2pool.com/static/images/currency-etc.png?v=9b4290a230369854c01c6792fa9b1ad1">
+ETC
+</a>
+
+
+
+
+
+
+
+<a class="currency-item eth-address" href="#" data-key="eth-address" data-urlname="eth" data-display-code="ETH">
+<img src="https://static.f2pool.com/static/images/currency-eth-address.png?v=fc87d3cefdd43e8e37d0675434df117b">
+ETH
+</a>
+
+
+
+
+
+<a class="currency-item hc" href="#" data-key="hc" data-urlname="hc" data-display-code="HC">
+<img src="https://static.f2pool.com/static/images/currency-hc.png?v=0276c4cc328af9eed08eaade25832ed7">
+HC
+</a>
+
+
+
+
+
+<a class="currency-item hns" href="#" data-key="hns" data-urlname="hns" data-display-code="HNS">
+<img src="https://static.f2pool.com/static/images/currency-hns.png?v=da88a4552327372b2ad8459c2385bbb3">
+HNS
+</a>
+
+
+
+
+
+<a class="currency-item kda" href="#" data-key="kda" data-urlname="kda" data-display-code="KDA">
+<img src="https://static.f2pool.com/static/images/currency-kda.png?v=0e120a678ed4c19aea1d5e1a76312694">
+KDA
+</a>
+
+
+
+
+
+
+
+<a class="currency-item mona" href="#" data-key="mona" data-urlname="mona" data-display-code="MONA">
+<img src="https://static.f2pool.com/static/images/currency-mona.png?v=b84d63c9d4196751c7bac50b2c61e76b">
+MONA
+</a>
+
+
+
+
+
+<a class="currency-item pgn" href="#" data-key="pgn" data-urlname="pigeon" data-display-code="PGN">
+<img src="https://static.f2pool.com/static/images/currency-pgn.png?v=cc9b1c6a60b5eb90ecbf7126703df21f">
+PGN
+</a>
+
+
+
+
+
+<a class="currency-item rvc" href="#" data-key="rvc" data-urlname="ravenclassic" data-display-code="RVC">
+<img src="https://static.f2pool.com/static/images/currency-rvc.png?v=8e00b9e27a15fc64aaaf15124fee1251">
+RVC
+</a>
+
+
+
+
+
+<a class="currency-item rvn" href="#" data-key="rvn" data-urlname="raven" data-display-code="RVN">
+<img src="https://static.f2pool.com/static/images/currency-rvn.png?v=528b83c502e4f991bf9f3cf271a7fa53">
+RVN
+</a>
+
+
+
+
+
+
+
+<a class="currency-item sc" href="#" data-key="sc" data-urlname="sia" data-display-code="SC">
+<img src="https://static.f2pool.com/static/images/currency-sc.png?v=f0363ad0f7aba7d629241496d8834a12">
+SC
+</a>
+
+
+
+
+
+<a class="currency-item sero" href="#" data-key="sero" data-urlname="sero" data-display-code="SERO">
+<img src="https://static.f2pool.com/static/images/currency-sero.png?v=90044570bc44f98bae9e67d7fa56996e">
+SERO
+</a>
+
+
+
+
+
+
+
+
+
+
+
+<a class="currency-item xmr" href="#" data-key="xmr" data-urlname="xmr" data-display-code="XMR">
+<img src="https://static.f2pool.com/static/images/currency-xmr.png?v=319fdf1aaebc84a15438eb5d73f5a269">
+XMR
+</a>
+
+
+
+
+
+<a class="currency-item xvg-blake2s" href="#" data-key="xvg-blake2s" data-urlname="verge" data-display-code="XVG-BLACK2S">
+<img src="https://static.f2pool.com/static/images/currency-xvg.png?v=8cfdb1d3252ee59d62717c4175f7364e">
+XVG-BLACK2S
+</a>
+
+
+
+
+
+<a class="currency-item xvg-groestl" href="#" data-key="xvg-groestl" data-urlname="verge-groestl" data-display-code="XVG-GROESTL">
+<img src="https://static.f2pool.com/static/images/currency-xvg.png?v=8cfdb1d3252ee59d62717c4175f7364e">
+XVG-GROESTL
+</a>
+
+
+
+
+
+<a class="currency-item xvg-lyra" href="#" data-key="xvg-lyra" data-urlname="verge-lyra" data-display-code="XVG-LYRA2REV2">
+<img src="https://static.f2pool.com/static/images/currency-xvg.png?v=8cfdb1d3252ee59d62717c4175f7364e">
+XVG-LYRA2REV2
+</a>
+
+
+
+
+
+<a class="currency-item xvg-scrypt" href="#" data-key="xvg-scrypt" data-urlname="verge-scrypt" data-display-code="XVG-SCRYPT">
+<img src="https://static.f2pool.com/static/images/currency-xvg.png?v=8cfdb1d3252ee59d62717c4175f7364e">
+XVG-SCRYPT
+</a>
+
+
+
+
+
+<a class="currency-item xvg-x17" href="#" data-key="xvg-x17" data-urlname="verge-x17" data-display-code="XVG-X17">
+<img src="https://static.f2pool.com/static/images/currency-xvg.png?v=8cfdb1d3252ee59d62717c4175f7364e">
+XVG-X17
+</a>
+
+
+
+
+
+<a class="currency-item xzc" href="#" data-key="xzc" data-urlname="zcoin" data-display-code="FIRO">
+<img src="https://static.f2pool.com/static/images/currency-xzc.png?v=626bedcfcc17d8531a883555241081c5">
+FIRO
+</a>
+
+
+
+
+
+<a class="currency-item zec" href="#" data-key="zec" data-urlname="zec" data-display-code="ZEC">
+<img src="https://static.f2pool.com/static/images/currency-zec.png?v=97ebd809e90f7492f5d5d59c6df1cfaa">
+ZEC
+</a>
+
+
+
+
+
+<a class="currency-item zen" href="#" data-key="zen" data-urlname="zen" data-display-code="ZEN">
+<img src="https://static.f2pool.com/static/images/currency-zen.png?v=a68f022cff828111abc1692ba08fd55d">
+ZEN
+</a>
+
+
+
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade modal-global-calculator" id="modalGlobalCalculator" tabindex="-1" role="dialog">
+<div class="modal-dialog modal-dialog-centered modal-xl">
+<div class="modal-content">
+<div class="modal-body">
+<span class="close" data-dismiss="modal" aria-label="Close"></span>
+<section class="section-calculator container-fluid">
+<div class="row justify-content-center">
+<div class="title col-12 d-flex align-items-end justify-content-start justify-content-lg-between">
+<h3>Calculator</h3>
+<div class="link-advanced-calc d-none">
+<div class="link-icon"></div>
+<a href="/calculator?miner_id=231&amp;currency=btc">Advanced Mining Calculator</a>
+</div>
+</div>
+<div class="comment d-flex col-12">
+<div>*</div>
+<div class="comment-pps">
+Please Note:&nbsp; <span class="comment-content">This calculator uses the current network difficulty and default pool fees to estimate PPS mining revenue. It should be used as a reference only, as actual revenue may differ.</span>
+</div>
+<div class="comment-pps-plus" style="display: none;">
+Please Note:&nbsp; <span class="comment-content">This calculator uses the current network difficulty and default pool fees to estimate mining revenue. It should be used as a reference only, as actual revenue may differ.</span>
+</div>
+</div>
+<div class="calculator-main row no-gutters justify-content-center col-12">
+<div class="col-12 col-xl-3 container-dropdown">
+<div class="calc-title">Hashrate</div>
+<div class="calc-input dropdown dropdown-currency">
+<button class="form-control dropdown-toggle" type="button" data-toggle="dropdown" disabled="" style="cursor: inherit;" aria-haspopup="true" aria-expanded="false">
+<img data-s="/static/images/currency-{}.png"> <span class="currency-name"></span>
+
+</button>
+
+</div>
+</div>
+<div class="calc-item col-12 col-xl-4 container-in">
+<div class="calc-title"></div>
+<div class="calc-input input-group">
+<input type="text" class="input-hashrate form-control" value="1">
+<div class="input-group-append">
+<span class="hashrate-unit input-group-text hashrate-append"></span>
+</div>
+</div>
+</div>
+<div class="convert-block col-12 col-xl-1 d-flex text-center justify-content-center">
+<div class="line left-line d-lg-none"></div>
+<div class="convert"></div>
+<div class="line right-line d-lg-none"></div>
+</div>
+<div class="calc-item col-12 col-xl-4 container-out">
+<div class="calc-title calc-title-out">Revenue</div>
+<div class="calc-input input-group">
+<input type="text" class="form-control input-profit" value="" disabled="">
+<div class="input-group-append">
+<span class="input-group-text profit-append">/day</span>
+</div>
+<div class="to-fiat-money">
+≈ <span class="money-symbol">$</span> <span class="money-val"></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="d-none d-lg-block btn-setup-collapse collapsed" data-toggle="collapse" data-target="#calcSetupCollapse">
+<span class="btn-collapse"><i class="far fa-angle-down"></i> More Settings</span>
+</div>
+<div class="setup-collapse collapse" id="calcSetupCollapse">
+<div class="row">
+<div class="col-12 col-xl setup setup-price">
+<div class="calc-title">Price</div>
+<div class="calc-input input-group">
+<input type="text" class="form-control money-val" data-rule="formatPriceWithoutSeparator" value="">
+<div class="input-group-append">
+<span class="unit money-symbol input-group-text">$</span>
+</div>
+</div>
+</div>
+<div class="col-12 col-xl setup setup-difficulty">
+<div class="calc-title">Difficulty</div>
+<div class="calc-input input-group">
+<input type="text" class="form-control" value="">
+<div class="input-group-append">
+<span class="unit input-group-text">
+<i class="fa fa-sort"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="col-12 col-xl setup setup-rate">
+<div class="calc-title">Rate</div>
+<div class="calc-input input-group">
+<input type="text" class="form-control" value="">
+<div class="input-group-append">
+<span class="unit input-group-text">%</span>
+</div>
+</div>
+</div>
+<div class="col-12">
+<div class="miner-table-container">
+<table class="table miner-table">
+<thead>
+<tr>
+<th>Miner</th>
+<th>Hashrate</th>
+<th>Power Consumption</th>
+<th>Revenue (24h)<i class="icon-about" data-toggle="tooltip" data-placement="top" title="" data-original-title="Without deducting the electricity cost"></i></th>
+<th>Daily Cost <span class="money-symbol">$</span><input type="text" class="form-control ipt-elec money-val" data-usd="0.05" data-rmb="0.32427500" data-rule="formatPrice_elec" value="">/kWh
+</th>
+<th>Unit Cost</th>
+<th>ROI Period</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade modal-global-footer" id="globalFooterModal">
+<div class="modal-dialog modal-dialog-centered" role="document">
+<div class="modal-content">
+<div class="modal-body">
+<span class="close" data-dismiss="modal" aria-label="Close"></span>
+<div class="container">
+</div>
+</div>
+</div>
+</div>
+</div>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;6740652e6be2296e&quot;,&quot;token&quot;:&quot;721305da1c9442eeaf0f485d9a99178a&quot;,&quot;version&quot;:&quot;2021.7.0&quot;,&quot;si&quot;:10}"></script>
+
+<script type="text/javascript" src="https://static.f2pool.com/static/js/jquery-3.2.1.min.js?v=a09e13ee94d51c524b7e2a728c7d4039"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/popper-1.16.1.min.js?v=1db8fd79ce2e5d14918726b61342318e"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/bootstrap-4.6.0.min.js?v=f0c2bcf5ef0c4476508d79ec9cdcce07"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/cookie.js?v=73509ade1f1d955b40d3fb9eaee6b53b"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/jquery.simpleTicker.js?v=16c884c8134213e9ee32345e015a7331"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/big.min.js?v=2fe037677bd86cdc19c4c92546609184"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/currency.js?v=b80f73f9f4a98863c32e2b61ff73696c"></script>
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=cb238c85-1e89-4251-af72-2f2c988474f9"></script>
+<script type="text/javascript">
+$(function() {
+CURRENCY_CONF.language = 'en_US';
+CURRENCY_CONF.usd_cny = Number('6.485499999999999' || 6.3);
+Big.DP = 40;
+// header-tip
+$.simpleTicker($('#headerTips'), {
+effectType: 'roll',
+delay: 5000,
+speed: 1000
+});
+$('[data-toggle="tooltip"]').tooltip();
+updateHeaderTheme();
+// address search
+updateAddressSearch();
+bindAddressSearch();
+
+getMiningUserHashrate();
+
+bindNavbarCollapse();
+bindDropdownClose();
+bindChangeLanguage();
+bindFooter();
+bindScrollToTop();
+setCalculator();
+bindInputGroupEffect();
+
+
+setWidget();
+bindLoginFree();
+bindUserSearch();
+if($(window).width()< 541) {
+$('.dropdown-global-currency .dropdown-menu.dropdown-menu-mobile').css('width', $(window).width()-16);
+}
+function bindAddressSearch() {
+var $container = $('.global-search-form-container');
+$('#input-address').on('input', updateAddressSearch);
+$container.find('.currency-list-menu a').on('click', function(e) {
+e.preventDefault();
+var currency = $(this).text();
+var urlName = $(this).data('urlname');
+$('#addressSearchForm button[type="submit"]').prop('disabled', $('#input-address').val() === '');
+$('#currency-toggle .btn').text(currency);
+$('#input-currency').val(urlName.toUpperCase());
+});
+$container.find('.icon-clear-search').on('click', function() {
+$('#input-address').val('');
+$(this).hide();
+updateAddressSearch();
+});
+}
+// click outside to close dropdown
+function bindDropdownClose() {
+$(document).on('click touchstart', function (e) {
+var $toggle = $('.footer-pop, .btn-app-download-ios, .btn-app-download-android');
+if (!$toggle.is(e.target) && $toggle.has(e.target).length === 0 && $('.popover').has(e.target).length === 0) {
+(($toggle.popover('hide').data('bs.popover')||{}).inState||{}).click = false;
+}
+});
+}
+function bindNavbarCollapse() {
+$('.page-wrapper > .header .navbar-collapse').on('show.bs.collapse', function(e) {
+$(this).parents('.header').addClass('collapse-show');
+}).on('hidden.bs.collapse', function(e) {
+$(this).parents('.header').removeClass('collapse-show');
+updateHeaderClass();
+});
+}
+function updateHeaderTheme() {
+var $headerIn = $('.layout-header-in');
+var $header = $('header.header');
+if ($headerIn.length > 0) {
+$(window).on('scroll', function() {
+if ($header.hasClass('collapse-show')) return;
+updateHeaderClass();
+});
+}
+}
+function updateHeaderClass() {
+var $headerIn = $('.layout-header-in');
+var $header = $('header.header');
+if ($(document).scrollTop() >= $headerIn.innerHeight() - ($(window).width() > 991 ? ($('.page-index').length > 0 ? 120 : 10) : 0)) {
+if (!$header.hasClass('header-white')) {
+$header.addClass('header-white header-fix-top animate');
+$header.trigger('header.fixtop.on');
+}
+} else {
+if ($header.hasClass('header-white') && !$header.hasClass('header-no-banner')) {
+$header.removeClass('header-white header-fix-top animate');
+$header.trigger('header.fixtop.off');
+}
+}
+}
+function updateAddressSearch() {
+var currencyArr = [], urlName, displayCode;
+var regxArr = {"bch": "(q[a-zA-Z0-9]{27,60}|[13][a-zA-Z0-9]{27,34})", "bsv": "(q[a-zA-Z0-9]{27,60}|[13][a-zA-Z0-9]{27,34})", "etc": "(?:0[Xx])?[0-9A-Fa-f]{40}", "eth-address": "(0[xX])?[0-9A-Fa-f]{40}", "zec": "t[13][1-9A-HJ-NP-Za-km-z]{33}|zc[1-9A-HJ-NP-Za-km-z]{93}", "zen": "z[nst][1-9A-HJ-NP-Za-km-z]{33}|zc[1-9A-HJ-NP-Za-km-z]{93}", "sc": "[0-9A-Fa-f]{76}", "dash": "[7X][1-9A-HJ-NP-Za-km-z]{27,35}", "xmr": "[48][1-9A-HJ-NP-Za-km-z]{94,105}(?:\\.[0-9a-fA-F]{16,64})?", "dcr": "D[1-9A-HJ-NP-Za-km-z]{27,35}", "xzc": "[Za][1-9A-HJ-NP-Za-km-z]{27,35}", "rvc": "[Rr][1-9A-HJ-NP-Za-km-z]{33}", "hns": "hs1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]{39,59}", "kda": "[0-9a-z]{64}", "chi": "C[a-zA-Z0-9]{27,35}", "ckb": "ck[0-9a-zA-Z]+", "sero": "[123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz]{44,}", "bcd": "[13][a-zA-Z0-9]{27,34}", "beam": "[0-9a-fA-F]{40,90}", "hc": "H[1-9A-HJ-NP-Za-km-z]{27,35}", "dgb-sha256d": "[DS][0-9A-Za-z]{27,35}", "dgb-scrypt": "[DS][0-9A-Za-z]{27,35}", "dgb-skein": "[DS][0-9A-Za-z]{27,35}", "dgb-qubit": "[DS][0-9A-Za-z]{27,35}", "dgb-odocrypt": "[DS][0-9A-Za-z]{27,35}", "mona": "[MP][0-9a-zA-Z]{20,60}", "btm": "bm1[qpzry9x8gf2tvdw0s3jn54khce6mua7l]+", "xvg-blake2s": "[DE][1-9A-HJ-NP-Za-km-z]{27,35}", "xvg-scrypt": "[DE][1-9A-HJ-NP-Za-km-z]{27,35}", "xvg-x17": "[DE][1-9A-HJ-NP-Za-km-z]{27,35}", "xvg-lyra": "[DE][1-9A-HJ-NP-Za-km-z]{27,35}", "xvg-groestl": "[DE][1-9A-HJ-NP-Za-km-z]{27,35}", "pgn": "P[a-zA-Z0-9]{27,34}", "rvn": "[Rr][1-9A-HJ-NP-Za-km-z]{33}", "rvn-pri": "[Rr][1-9A-HJ-NP-Za-km-z]{33}"};
+var $container = $('.global-search-form-container');
+var $btnCurrencyToggle = $("#currency-toggle .btn");
+var $inputAddress = $('#input-address');
+var $inputCurrency = $('#input-currency');
+var $btnSearchSubmit = $('#addressSearchForm button[type="submit"]');
+var $listMenu = $container.find('.currency-list-menu');
+var $btnClearSearch = $container.find('.icon-clear-search');
+var txt = $inputAddress.val().replace(/\s/g, '');
+$inputAddress.val(txt);
+if (!txt) {
+$btnCurrencyToggle.text('Currency');
+$btnSearchSubmit.prop('disabled', true);
+$btnClearSearch.hide();
+$listMenu.find('.currency-item').show();
+return;
+} else {
+$btnClearSearch.show();
+}
+Object.keys(regxArr).forEach(function(key) {
+if (RegExp('^' + regxArr[key] + '$').test(txt)) {
+var $item = $('.currency-list-menu .' + key);
+currencyArr.push(key);
+urlName = $item.data('urlname');
+displayCode = $item.data('displayCode');
+}
+});
+if (currencyArr.length == 1) {
+$btnCurrencyToggle.text(displayCode);
+$btnSearchSubmit.prop('disabled', false);
+$inputCurrency.val(urlName && urlName.toUpperCase() || '');
+$listMenu.removeClass('show');
+} else if (currencyArr.length > 1) {
+$btnCurrencyToggle.text('Currency');
+$btnSearchSubmit.prop('disabled', true);
+$container.find('.currency-list-menu .currency-item').filter(function() {
+var isMatch = $.inArray($(this).data('key'), currencyArr) > -1;
+if (isMatch) $(this).show();
+return !isMatch;
+}).hide();
+$listMenu.addClass('show');
+} else if (txt) {
+$btnCurrencyToggle.text('Currency');
+$btnSearchSubmit.prop('disabled', true);
+$container.find('.currency-list-menu .currency-item').show();
+$listMenu.addClass('show');
+}
+}
+// change language
+function bindChangeLanguage() {
+$('.change-lang').on('click', function(e) {
+e.preventDefault();
+Cookies.remove('lang');
+Cookies.set('lang', $(this).data('lang'), {domain: ".f2pool.com"});
+location.reload();
+});
+}
+// footer popover
+function bindFooter() {
+if ($(window).width() > 991) {
+$('.footer-pop').each(function() {
+$(this).popover({
+html: true,
+trigger: 'hover click',
+placement: 'top',
+container: $(this),
+template: '<div class="popover footer-popover"><div class="popover-body"></div></div>',
+content: function() {
+return $(this).find('.footer-pop-content').prop('outerHTML');
+}
+}).on('show.bs.popover', function() {
+$(this).addClass('active');
+}).on('hide.bs.popover', function() {
+$(this).removeClass('active');
+});
+});
+} else {
+var $modal = $('#globalFooterModal');
+$('.footer-pop').on('click', function() {
+$modal.find('.container').html($(this).find('.footer-pop-content').clone().css('display', 'block'));
+$modal.modal({ show: true });
+});
+}
+}
+function setCalculator () {
+var $calcModal = $('#modalGlobalCalculator');
+var $iptProfit = $calcModal.find('.input-profit');
+var $iptHashrate = $calcModal.find('.input-hashrate');
+var calcMode = 'hash-to-profit';
+var minerData;
+var config;
+$calcModal.on('show.bs.modal', function(e) {
+var $target = $(e.relatedTarget);
+config = $target.data('config');
+initCalcModal();
+}).on('hide.bs.modal', function() {
+$('#calcSetupCollapse').collapse('hide');
+});
+// change currency
+$calcModal.find('.dropdown-currency .dropdown-item').on('click', function(e) {
+e.preventDefault();
+config = $(this).data('config');
+initCalcModal();
+});
+// hashrate input event
+$iptHashrate.on('change', function() {
+if (calcMode === 'profit-to-hash') return;
+var profit = getResult(config, $(this).val(), 'toProfit');
+$iptProfit.val(profit);
+toFiatMoney(profit);
+});
+// profit input event
+$iptProfit.on('change', function() {
+if (calcMode === 'hash-to-profit') return;
+var hash = getResult(config, $(this).val(), 'toHashrate');
+$iptHashrate.val(hash);
+toFiatMoney($(this).val());
+});
+// convert button click event
+$calcModal.find('.convert').on('click', function() {
+var oldMode = calcMode;
+var $in = $calcModal.find('.container-in');
+var $out = $calcModal.find('.container-out');
+var $title1 = $calcModal.find('.container-dropdown .calc-title');
+var $title2 = $out.find('.calc-title');
+var temp = $title1.text();
+if (calcMode === 'hash-to-profit') {
+calcMode = 'profit-to-hash';
+} else {
+calcMode = 'hash-to-profit';
+}
+$in.append($out.find('.calc-input'));
+$out.append($in.find('.calc-input').eq(0));
+$in.find('input').prop('disabled', false);
+$out.find('input').prop('disabled', true);
+$title1.text($title2.text());
+$title2.text(temp);
+$calcModal.removeClass(oldMode).addClass(calcMode);
+});
+// collapse toggle
+$('#calcSetupCollapse').on('show.bs.collapse', function() {
+var currency = $(this).parents('.section-calculator').find('.dropdown-toggle .currency-name').text();
+$('.modal-global-calculator .btn-collapse').html('<i class="far fa-angle-up"></i> Minimize');
+}).on('hide.bs.collapse', function() {
+$('.modal-global-calculator .btn-collapse').html('<i class="far fa-angle-down"></i> More Settings');
+});
+// setup
+$calcModal.find('.setup .form-control, .miner-table .ipt-elec').on('change', function() {
+var res;
+var $iptHashrate = $calcModal.find('.input-hashrate');
+var $iptProfit= $calcModal.find('.input-profit');
+updateCalcMiners(config);
+if ($calcModal.find('.container-in .input-hashrate')) {
+res = getResultfromCustomConf(config, $iptHashrate.val(), 'toProfit');
+$iptProfit.val(res);
+} else {
+res = getResultfromCustomConf(config, $iptProfit.val(), 'toHashrate');
+$iptHashrate.val(res);
+}
+toFiatMoney($iptProfit.val());
+});
+$calcModal.find('.miner-table').on('change', '.ipt-miner-price', function() {
+var $row = $(this).parents('tr');
+var minerId = $row.data('id');
+var rowId = $row.attr('id');
+var data;
+if (minerId && minerData) {
+data = minerData.find(function(item) {
+return item.id === minerId;
+});
+if (data) {
+$(this).data('usd', CURRENCY_FUNC.toUSD($(this).val()));
+$row.replaceWith(getSingleMinerTpl(data, config));
+CURRENCY_FUNC.updateMoney($('#' + rowId), 'formatPriceWithoutSeparator');
+}
+}
+});
+function initCalcModal() {
+var currency = config.currency;
+var display_currency_code = config.display_currency_code;
+var $btnToggle = $calcModal.find('.dropdown-currency .dropdown-toggle');
+var $toggleImg = $btnToggle.find('img');
+var $setupCollapse = $calcModal.find('.setup-collapse');
+var imgName = (currency === 'eth-address') ? currency : currency.split('-')[0];
+var profit;
+// unit profit without rate
+config.unitProfit = Big(config.estimatedProfit).div(CURRENCY_CONF.scales[config.scale || 1]).div((100 - (config.rate || 0)) / 100).toFixed();
+if (currency === 'btc') {
+var ppsUnitProfit = Big(1).div(config.difficulty).times(6.25 * 86400 / Math.pow(2, 32)).toFixed();
+config.gasFee = (Big(config.unitProfit).div(ppsUnitProfit).minus(1)).times(100).toFixed();
+}
+$iptHashrate.val(1);
+if (currency === 'xch') {
+$calcModal.find('.hashrate-unit').text(config.scale + config.unit);
+} else {
+$calcModal.find('.hashrate-unit').text(config.scale + config.unit + '/s');
+}
+$calcModal.find('.profit-append').text(display_currency_code.split('-')[0] + '/day');
+$toggleImg.attr('src', $toggleImg.data('s').replace('{}', imgName));
+$btnToggle.find('.currency-name').text(display_currency_code);
+// add linker to advanced calculator for btc
+if(currency!=='btc'){
+$calcModal.find('.link-advanced-calc').addClass("d-none").removeClass("d-flex align-items-center")
+}else{
+$calcModal.find('.link-advanced-calc').removeClass("d-none").addClass("d-flex align-items-center")
+}
+if (currency === 'btc' || currency === 'eth') {
+$calcModal.find('.comment-pps').hide();
+$calcModal.find('.comment-pps-plus').show();
+} else {
+$calcModal.find('.comment-pps').show();
+$calcModal.find('.comment-pps-plus').hide();
+}
+//难度
+$setupCollapse.find('.setup-difficulty').toggle(config.currency === 'btc').find('.form-control').val(config.difficulty);
+if (!config.price) config.price = 0;
+//币价
+$setupCollapse.find('.setup-price .form-control').val(parseFloat(config.price.toFixed(2))).data('usd', config.price);
+//费率
+$setupCollapse.find('.setup-rate .form-control').val(config.rate);
+updateCalcMiners(config);
+profit = getResult(config, 1, 'toProfit');
+//收益
+$iptProfit.val(profit);
+CURRENCY_FUNC.updateMoney($calcModal);
+toFiatMoney(profit);
+}
+function updateCalcMiners(config) {
+var $calcContainer = $('#modalGlobalCalculator');
+var $minerTable = $calcContainer.find('.miner-table');
+if ($minerTable.data('currency') === config.currency && minerData) {
+updateTable(minerData);
+} else {
+$.post({
+url: '/miners/bycoin',
+data: {
+currency_code: config.currency.split('-')[0],
+limit: 5
+}
+}, function(res) {
+var data = res.data;
+minerData = res.data;
+$minerTable.data('currency', config.currency);
+updateTable(data);
+}).fail(function() {
+$('.miner-table-container').hide();
+});
+}
+}
+function updateTable(data) {
+var tpl = [];
+var $calcContainer = $('#modalGlobalCalculator');
+var $minerTable = $calcContainer.find('.miner-table');
+if ($.isArray(data) && data.length > 0) {
+data.forEach(function(item) {
+tpl.push(getSingleMinerTpl(item, config));
+});
+$('.miner-table-container').show();
+$minerTable.find('tbody').html(tpl.join(''));
+} else {
+$('.miner-table-container').hide();
+}
+CURRENCY_FUNC.updateMoney($minerTable.find('tbody'), 'formatPriceWithoutSeparator');
+}
+}
+function getResult(config, val, type) {
+var ret, temp;
+var scale = CURRENCY_CONF.scales[config.scale || 1];
+var customConf = getCustomVal();
+var base = Big(config.unitProfit).times(scale).times((100 - (customConf.rate || 0)) / 100);
+val = Number(val);
+if (isNaN(val) || val <= 0 || !config.unitProfit) {
+ret = '';
+} else {
+temp = (config.price + '').split('.')[1];
+ret = type === 'toProfit' ? Big(val).times(base) : Big(val).div(base);
+ret = ret.toFixed(ret.gte(1e6) ? 2 : (ret.gte(100) ? 4 : 8));
+}
+return ret;
+}
+function getResultfromCustomConf(config, val, type) {
+var customConf = getCustomVal();
+var unitProfit;
+var estimatedProfit;
+if (config.currency === 'btc') {
+if (customConf.difficulty && customConf.price_usd && customConf.rate) {
+unitProfit = Big(1).div(customConf.difficulty).times(6.25 * 86400 / Math.pow(2, 32)).times(Big(1).plus(Big(config.gasFee).div(100))).toFixed();
+} else {
+unitProfit = Big(config.estimatedProfit).div(CURRENCY_CONF.scales[config.scale || 1]).div((100 - (config.rate || 0)) / 100).toFixed()
+}
+}
+if (unitProfit) config.unitProfit = unitProfit;
+return getResult(config, val, type);
+}
+function toFiatMoney(val) {
+var $toFiatMoney = $('.to-fiat-money');
+var coinPrice = getCustomVal().price_usd;
+var fiat = Big(val || 0).times(coinPrice);
+$toFiatMoney.find('.money-val').data('usd', fiat).text(Big(CURRENCY_FUNC.exchange(fiat.toFixed())).toFixed(2));
+}
+// by USD
+function getSingleMinerTpl(minerData, coinConfig) {
+var temp = [];
+var rowId = 'miner-' + minerData.id + '-' + coinConfig.currency;
+var $row = $('#' + rowId);
+var minerPrice, mixedCoinData, mixedMinerData, profitData;
+var customConf = getCustomVal();
+mixedCoinData = $.extend({}, coinConfig, {
+rate: customConf.rate,
+price: customConf.price_usd,
+difficulty: customConf.difficulty
+});
+if ($row.length) {
+minerPrice = $row.find('.ipt-miner-price').data('usd') || 0;
+mixedMinerData = $.extend({}, minerData, { price: isNaN(minerPrice) ? 0 : minerPrice });
+} else {
+mixedMinerData = $.extend({}, minerData, { price: minerData.price < 0 ? 1000 : minerData.price });
+}
+profitData = computeProfit(mixedCoinData, mixedMinerData, customConf.elecFee_usd);
+temp.push(minerData.name,
+CURRENCY_FUNC.formatHashrate(minerData.hashrate),
+minerData.power + '<span class="unit unit-right">W</span>',
+'<span class="money-symbol unit unit-left">$</span><span class="money-val" data-usd="' + profitData.revenue_24h + '"></span>',
+'<span class="money-symbol unit unit-left">$</span><span class="money-val" data-usd="' + profitData.elec_24h + '"></span>',
+'<span class="money-symbol unit unit-left">$</span><input class="money-val ipt-miner-price form-control" data-usd="' + mixedMinerData.price + '" value="" />',
+profitData.recoupDays >= 0 ? profitData.recoupDays : ('<span class="text-danger">Expected to not ROI</span>'));
+return '<tr id="' + rowId+ '" data-id="' + minerData.id + '"><td>' + temp.join('</td><td>') + '</td></tr>';
+}
+function getCustomVal() {
+var $calcContainer = $('#modalGlobalCalculator');
+return {
+price_usd: CURRENCY_FUNC.toUSD($calcContainer.find('.setup-price .form-control').val() || 0),
+rate: $calcContainer.find('.setup-rate .form-control').val() || 0,
+difficulty: $calcContainer.find('.setup-difficulty .form-control').val(),
+elecFee_usd: CURRENCY_FUNC.toUSD($calcContainer.find('.ipt-elec').val() || 0),
+};
+}
+// by USD
+function computeProfit(coinData, minerData, elecFee) {
+var coins_24h, revenue_24h, elec_24h, profit_24h, recoupDays;
+if (minerData.hashrate) {
+if (coinData.currency === 'btc' && coinData.difficulty && minerData.hashrate) {
+coins_24h = Big(minerData.hashrate).div(coinData.difficulty).times(6.25 * 86400 / Math.pow(2, 32));
+} else if (coinData.currency !== 'btc' && coinData.unitProfit && minerData.hashrate) {
+coins_24h = Big(coinData.unitProfit).times(minerData.hashrate);
+}
+}
+if (coinData.rate > 0) coins_24h = coins_24h.times((100 - coinData.rate) / 100);
+if (coins_24h && coinData.price) revenue_24h = coins_24h.times(coinData.price);
+if (minerData.power) elec_24h = Big(minerData.power).times(elecFee || 0).times(0.024);
+if (revenue_24h && elec_24h) profit_24h = revenue_24h.minus(elec_24h);
+if (profit_24h && minerData.price) {
+recoupDays = profit_24h <= 0 ? -1 : Big(minerData.price).div(profit_24h);
+}
+return {
+currency: coinData.currency,
+coins_24h: coins_24h && coins_24h.toFixed(8),
+revenue_24h: revenue_24h && revenue_24h.toFixed(8),
+elec_24h: elec_24h && elec_24h.toFixed(8),
+profit_24h: profit_24h && profit_24h.toFixed(8),
+recoupDays: recoupDays && Math.ceil(recoupDays.toString()),
+};
+}
+function bindScrollToTop() {
+var $window = $(window);
+var $doc = $(document);
+var $btn = $('.btn-global-to-top');
+if ($doc.scrollTop() > 50) $btn.addClass('animate');
+$btn.on('click', function() {
+window.scroll({ top: 0, left: 0, behavior: 'smooth' });
+});
+$window.on('scroll', function() {
+var scrollTop = $doc.scrollTop();
+if (!$btn.hasClass('animate') && scrollTop > 500) {
+$btn.addClass('animate');
+} else if ($btn.hasClass('animate') && scrollTop < 100) {
+$btn.removeClass('animate');
+}
+});
+}
+function getMiningUserHashrate() {
+var $dropdown = $('.dropdown-global-user-menu');
+var $item, data, content, userName, hashData;
+$dropdown.on('show.bs.dropdown', function() {
+$.post({
+url: '/multi-user-hashrate',
+data: {
+currency_code: 'btc',
+}
+}, function(res) {
+data = res.data && res.data.users;
+if (!data) return;
+$dropdown.find('.dropdown-menu .dropdown-user').each(function() {
+var $item = $(this);
+var itemData = data[$item.data('name')];
+if (!itemData) {
+$item.remove();
+return;
+}
+hashData = (itemData.hashrate || '0.00') + ' ' + $item.data('suffix');
+$item.find('.mining-user-hashrate').text(hashData);
+$item.toggleClass('zero-hash', !Number(itemData.hashrate));
+
+});
+});
+});
+}
+function bindUserSearch() {
+var $searchIpt= $('.search-account-input');
+var searchKey;
+$('.mining-user-section .item-common').each(function(idx) {
+$(this).data('index', idx);
+});
+$searchIpt.on('input', function() {
+searchKey = $(this).val();
+updateUserMenu(searchKey);
+});
+}
+function updateUserMenu(searchKey) {
+var $section = $('.mining-user-section');
+var arr = [];
+searchKey = searchKey.toLowerCase();
+$section.find('.item-search').each(function() {
+$(this).removeClass('item-search');
+});
+$section.find('.dropdown-item-user').sort(function(a, b) {
+var $a = $(a);
+var $b = $(b);
+var idxA = $a.data('index');
+var idxB = $b.data('index');
+return idxA === idxB ? ($a.hasClass('item-common') ? -1 : 1) : (idxA - idxB);
+}).appendTo($section);
+if (searchKey !== '') {
+$section.find('.item-common').each(function(idx, el) {
+var $this = $(this);
+if ($this.data('name').toLowerCase().match(searchKey) || ($this.data('desc') && $this.data('desc').toString().toLowerCase().match(searchKey))) {
+arr.push($(this).addClass('item-search'));
+}
+});
+$section.prepend(arr);
+}
+}
+function bindInputGroupEffect() {
+// focus effect
+$('body').on('focus', '.input-group input[type="text"].form-control', function() {
+$(this).parents('.input-group').addClass('active');
+}).on('blur', '.input-group input[type="text"].form-control', function() {
+$(this).parents('.input-group').removeClass('active');
+});
+}
+function bindAutoProtocol() {
+var $modalAutoProtocol = $('#modalAutoProtocol');
+$modalAutoProtocol.on('click', '.btn-submit', function() {
+$.ajax({
+type: 'POST',
+url: '/user/account/enable-auto-switch',
+}).done(function(response, status, xhr) {
+if (response.status == "fail") {
+$('.status-toast').remove();
+$('body').append('<div class="status-toast fail">Submission failed.</div>');
+$('.status-toast').delay(5000).hide(0);
+} else {
+
+location.href = "/jump?next=%2Fminers&currency=auto-equihash";
+
+}
+}).fail(function() {
+$('.status-toast').remove();
+$('body').append('<div class="status-toast fail">Submission failed.</div>');
+$('.status-toast').delay(5000).hide(0);
+});
+});
+$('.dropdown-global-currency .dropdown-item').on('click', function(e) {
+if ($(this).hasClass('has-multi-currency')) {
+e.preventDefault();
+} else {
+return;
+}
+$modalAutoProtocol.modal('show');
+});
+
+}
+function bindLoginFree() {
+$('.dropdown-global-currency .dropdown-item.special').on('click', function(e) {
+e.preventDefault();
+$('#global-search-modal').modal('show');
+});
+}
+function bindAppDownload() {
+if ($(window).width() > 991) {
+$('.btn-app-download-ios').each(function() {
+$(this).popover({
+html: true,
+trigger: 'click',
+placement: 'top',
+container: $(this).parents('.download-btns').length > 0 ? $(this).parents('.download-btns') : 'body',
+template: '<div class="popover app-download-popover"><div class="popover-body"></div></div>',
+content: '<img src="https://static.f2pool.com/static/images/apple-store-qrcode.png?v=55afc38eaf2b16a87a3b0c0d4d21c263">', //如果app被下架，使用download-guide-qrcode.png二维码
+});
+});
+} else {
+$('.btn-app-download-ios').on('click', function() {
+location.href = "https://itunes.apple.com/app/f2pool/id1403702113";
+});
+}
+}
+function bindAndroidDownload() {
+if ($(window).width() > 991) {
+$('.btn-app-download-android').each(function() {
+$(this).popover({
+html: true,
+trigger: 'click',
+placement: 'top',
+container: $(this).parents('.download-btns').length > 0 ? $(this).parents('.download-btns') : 'body',
+template: '<div class="popover app-download-popover"><div class="popover-body"></div></div>',
+content: '<img src="https://static.f2pool.com/static/images/download-qrcode-up.png?v=1f711b9cdbb2c43eb2da464b4bbec389">',
+});
+});
+} else {
+$('.btn-app-download-android').on('click', function() {
+location.href = "https://static.f2pool.com/assets/native-app/package/f2pool-238.apk?t=7337a0885545d88d365465a068a2425f";
+});
+}
+}
+function setWidget() {
+window.zESettings = {
+webWidget: {
+color: {
+theme: '#2889fc',
+launcherText: '#ffffff',
+header: '#2889fc',
+}
+}
+};
+zE('webWidget', 'setLocale', 'en_US');
+zE('webWidget', 'helpCenter:setSuggestions', { labels: ['常见问题'] });
+}
+});
+</script>
+
+//<script></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/datatables.min.js?v=7b455c620d4e87ce4a9c6c711ece72f6"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/dataTables.fixedColumns.min.js?v=e1f5bc4226e6cf5da15b6f953a17ad02"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/moment.min.js?v=34b7a44e9393458758b871a52e027261"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/echarts.common.min.js?v=62c9e5a43785ff297f1239989054c05c"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/big.min.js?v=2fe037677bd86cdc19c4c92546609184"></script>
+<script type="text/javascript" src="https://static.f2pool.com/static/js/currency.js?v=b80f73f9f4a98863c32e2b61ff73696c"></script>
+<script>
+var SEARCH_KEY = ['name', 'currency_code', 'display_currency_code'];
+var SORT_KEY = 'profit_24h';
+var SORT_TYPE = 'desc';
+var ALL_DATA;
+var ELEC_FEE_USD;
+Big.DP = 40;
+$(function() {
+CURRENCY_CONF.language = 'en_US';
+CURRENCY_CONF.usd_cny = Number('6.485499999999999' || 6.3);
+ALL_COINS = [{'name': 'btc', 'display_currency_code': 'BTC', 'm_type': 2}, {'name': 'ltc', 'display_currency_code': 'LTC', 'm_type': 2}, {'name': 'zec', 'display_currency_code': 'ZEC', 'm_type': 2}, {'name': 'eth', 'display_currency_code': 'ETH', 'm_type': 3}, {'name': 'etc', 'display_currency_code': 'ETC', 'm_type': 3}, {'name': 'sc', 'display_currency_code': 'SC', 'm_type': 2}, {'name': 'dash', 'display_currency_code': 'DASH', 'm_type': 3}, {'name': 'xmr', 'display_currency_code': 'XMR', 'm_type': 2}, {'name': 'dcr', 'display_currency_code': 'DCR', 'm_type': 3}, {'name': 'xzc', 'display_currency_code': 'FIRO', 'm_type': 1}, {'name': 'zen', 'display_currency_code': 'ZEN', 'm_type': 2}, {'name': 'bch', 'display_currency_code': 'BCH', 'm_type': 2}, {'name': 'bsv', 'display_currency_code': 'BSV', 'm_type': 2}, {'name': 'dgb-sha256d', 'display_currency_code': 'DGB-SHA256D', 'm_type': 2}, {'name': 'dgb-scrypt', 'display_currency_code': 'DGB-SCRYPT', 'm_type': 2}, {'name': 'xvg-scrypt', 'display_currency_code': 'XVG-SCRYPT', 'm_type': 2}, {'name': 'sero', 'display_currency_code': 'SERO', 'm_type': 1}, {'name': 'xvg-x17', 'display_currency_code': 'XVG-X17', 'm_type': 1}, {'name': 'rvn', 'display_currency_code': 'RVN', 'm_type': 1}, {'name': 'beam', 'display_currency_code': 'BEAM', 'm_type': 1}, {'name': 'cfx', 'display_currency_code': 'CFX', 'm_type': 1}, {'name': 'pgn', 'display_currency_code': 'PGN', 'm_type': 1}, {'name': 'chi', 'display_currency_code': 'CHI', 'm_type': 1}, {'name': 'dgb-qubit', 'display_currency_code': 'DGB-QUBIT', 'm_type': 3}, {'name': 'xvg-groestl', 'display_currency_code': 'XVG-GROESTL', 'm_type': 3}, {'name': 'dgb-skein', 'display_currency_code': 'DGB-SKEIN', 'm_type': 3}, {'name': 'btm', 'display_currency_code': 'BTM', 'm_type': 3}, {'name': 'mona', 'display_currency_code': 'MONA', 'm_type': 2}, {'name': 'rvc', 'display_currency_code': 'RVC', 'm_type': 1}, {'name': 'xvg-lyra', 'display_currency_code': 'XVG-LYRA2REV2', 'm_type': 2}, {'name': 'dgb-odocrypt', 'display_currency_code': 'DGB-ODOCRYPT', 'm_type': 2}, {'name': 'bcd', 'display_currency_code': 'BCD', 'm_type': 2}, {'name': 'ckb', 'display_currency_code': 'CKB', 'm_type': 2}, {'name': 'hns', 'display_currency_code': 'HNS', 'm_type': 2}, {'name': 'kda', 'display_currency_code': 'KDA', 'm_type': 2}, {'name': 'stc', 'display_currency_code': 'STC', 'm_type': 2}];
+COINS_LIST = {'all':[], 'gpu':[], 'asic':[]};
+MINER_COINS_LIST = [];
+//'显卡矿机': 1, 'ASIC矿机': 2, '多算法矿机': 3
+ALL_COINS.forEach(function(coin) {
+COINS_LIST.all.push(coin)
+if (coin.m_type == 1){
+COINS_LIST.gpu.push(coin);
+}else if (coin.m_type == 2){
+COINS_LIST.asic.push(coin);
+}else if (coin.m_type == 3){
+COINS_LIST.gpu.push(coin);
+COINS_LIST.asic.push(coin);
+}
+})
+var GPU_MINER_DICT = {};
+var CHECKED_MINER_ID = 0;
+var ACTIVE_CURRENCY = 'all'; //default value: 'all'
+var ACTIVE_MINER_TYPE = 'all'; //value: 'all'/'asic'/'gpu-miner'/'gpu-currency'
+// init template
+template.defaults.rules[1].test = /\[\[([@#]?)[ \t]*(\/?)([\w\W]*?)[ \t]*\]\]/;
+template.defaults.imports.separator = CURRENCY_FUNC.separator;
+template.defaults.imports.formatBigNum = CURRENCY_FUNC.formatBigNum;
+template.defaults.imports.formatPrice = CURRENCY_FUNC.formatPrice;
+template.defaults.imports.formatPrice_digit = CURRENCY_FUNC.formatPrice_digit;
+template.defaults.imports.formatPrice_elec = CURRENCY_FUNC.formatPrice_elec;
+template.defaults.imports.formatPrice_marketcap= CURRENCY_FUNC.formatPrice_marketcap;
+template.defaults.imports.formatPrice_common= CURRENCY_FUNC.formatPrice_common;
+template.defaults.imports.formatHashrate = CURRENCY_FUNC.formatHashrate;
+template.defaults.imports.remainRate = CURRENCY_FUNC.remainRate;
+// init
+updateCurrencySelectContainer(COINS_LIST[ACTIVE_MINER_TYPE], ACTIVE_CURRENCY);
+getList();
+initGpuMinerList();
+initTableSort();
+bindMinerTypeNav();
+bindCurrencySelectNav();
+bindSearchBoxMinerList();
+bindSortbyCurrencyTable();
+$('#elecTooltip').tooltip({
+placement: 'bottom',
+container: $('.page-miner-list'),
+title: 'The higher the cost of electricity, the lower profits will be.',
+});
+// event
+$('.ipt-elec').each(function() {
+var $iptElec = $(this);
+if (CURRENCY_CONF.globalUnit === 'usd') {
+$iptElec.attr('data-rmb', Big($iptElec.data('usd')).times(CURRENCY_CONF['usd_cny']).toFixed(8));
+} else {
+$iptElec.attr('data-usd', Big($iptElec.data('rmb')).div(CURRENCY_CONF['usd_cny']).toFixed(8));
+}
+});
+ELEC_FEE_USD = Number($('.ipt-elec').data('usd')) || 0.05;
+$('.page-miner-list').on('change', '.ipt-elec', function() {
+var $this = $(this);
+var val = Number($(this).val()) || 0;
+ELEC_FEE_USD = CURRENCY_CONF.globalUnit === 'usd' ? val : Big(val).div(CURRENCY_CONF['usd_' + CURRENCY_CONF.globalUnit]).toFixed(8);
+$('.ipt-elec').each(function(){
+$(this).attr('data-usd', ELEC_FEE_USD);
+$(this).attr('data-rmb', CURRENCY_CONF.globalUnit === 'usd' ? Big(val).times(CURRENCY_CONF['usd_cny']).toFixed(8) : val);
+$(this).attr('value', val);
+$(this).val(val);
+})
+fillTable();
+var $table = $('#sort-by-currency-table')
+if ($.fn.dataTable.isDataTable($table)){
+$table.DataTable().column(['elec-24h', 'profit-24h']).cells().invalidate().render();
+}
+});
+CURRENCY_FUNC.updateMoney();
+CURRENCY_FUNC.bindMoneyChange();
+CURRENCY_FUNC.bindListRowHoverStyle();
+// search
+$('.search-box-miner input').on('input', function() {
+var val = $(this).val().toLowerCase();
+var $listItemLeft = $('.list-container-left .list-body > .list-row');
+var $listItemRight = $('.list-container-right .list-body > .list-row');
+var matchCount = 0;
+var searchKey = SEARCH_KEY;
+ALL_DATA && ALL_DATA.forEach(function(item, idx) {
+var isMatch = searchKey.reduce(function(res, key) {
+return res || (item[key].toLowerCase().indexOf(val) > -1);
+}, false);
+if (isMatch) matchCount++;
+$listItemLeft.eq(idx).toggleClass('hide', !isMatch);
+$listItemRight.eq(idx).toggleClass('hide', !isMatch);
+});
+$('.list-container-empty').toggle(searchKey !== '' && matchCount === 0);
+});
+$('.list-area').on('click', '.list-body .list-row', function(e) {
+location.href = '/miner?id=' + $(this).data('id');
+});
+$(window).on('resize', function() {
+CURRENCY_FUNC.updateListHeaderStyle();
+updateCurrencySelectContainer();
+$table = $('#sort-by-currency-table');
+if ($.fn.dataTable.isDataTable($table)){
+$table.DataTable().draw(false);
+}
+});
+$('.list-container-right').on('scroll', function() {
+$('.list-container-right .list-header').scrollLeft($(this).scrollLeft());
+});
+function bindMinerTypeNav() {
+$('.nav-miner-type').on('click', 'a.nav-link', function(e){
+var $this = $(this);
+var minerType = $this.data('type')
+if( minerType == ACTIVE_MINER_TYPE ){
+return;
+}
+$(window).scrollTop($('.page-top100 .header').outerHeight() - 140);
+$('.nav-miner-type').find('.active').removeClass('active');
+$this.addClass('active');
+if(minerType.startsWith('gpu')) {
+$('.list-area').addClass('miner-type-gpu').data('scrollIntoView', false);
+$('.nav-miner-type').find('.nav-link.dropdown-toggle').addClass('active').attr('data-type', minerType).text($this.text());
+$('.nav-miner-type .dropdown-menu').find('.dropdown-item.active').removeClass('active');
+$('.nav-miner-type .dropdown-menu').find('.dropdown-item[data-type="' + minerType +'"]').addClass('active');
+} else {
+$('.list-area').removeClass('miner-type-gpu').data('scrollIntoView', true);
+}
+doMinerTypeChange(minerType);
+})
+$('.nav-miner-type').on('click', 'a.dropdown-item', function(e){
+var txt = $(this).text();
+var minerType = $(this).data('type');
+if( minerType == ACTIVE_MINER_TYPE ){
+return;
+}
+$(window).scrollTop($('.page-top100 .header').outerHeight() - 140);
+$(this).siblings().removeClass('active');
+$(this).addClass('active');
+$('.nav-miner-type').find('.nav-link.active').removeClass('active');
+$('.nav-miner-type').find('.nav-link[data-type="' + minerType +'"]').addClass('active');
+$(this).parents('.nav-item').find('.nav-link').attr('data-type', minerType).addClass('active').text(txt);
+doMinerTypeChange(minerType);
+})
+}
+function doMinerTypeChange(minerType) {
+ACTIVE_MINER_TYPE = minerType;
+if (ACTIVE_MINER_TYPE == 'gpu-miner') {
+ACTIVE_CURRENCY = 'eth';
+} else {
+ACTIVE_CURRENCY = 'all';
+}
+$('.sort-by-miner').toggleClass('hide', minerType == 'gpu-currency' ? true : false);
+$('.search-box-miner').toggleClass('hide', minerType == 'gpu-currency' ? true : false);
+$('.sort-by-currency').toggleClass('hide', minerType == 'gpu-currency' ? false : true);
+$('.search-box-miner-list').toggleClass('hide', minerType == 'gpu-currency' ? false : true);
+$('.list-sort-btn-miner').toggleClass('hide', minerType == 'gpu-currency' ? true : false);
+$('.list-sort-btn-currency').toggleClass('hide', minerType == 'gpu-currency' ? false : true);
+initListSortBtn(minerType);
+if(minerType == 'gpu-currency') {
+getGpuMinerDetail(CHECKED_MINER_ID);
+}else{
+updateCurrencySelectContainer(COINS_LIST[ACTIVE_MINER_TYPE.startsWith('gpu') ? 'gpu' : ACTIVE_MINER_TYPE], ACTIVE_CURRENCY);
+getList();
+}
+}
+function initListSortBtn(minerType) {
+if(minerType == 'gpu-currency'){
+$('.list-sort-btn-currency').find('.miner').data('id', CHECKED_MINER_ID).text(GPU_MINER_DICT[CHECKED_MINER_ID]);
+$('.list-sort-btn-currency').find('.order').data('sort', 'profit_24h').data('type', 'desc').text('Descending by 24h profits');
+}else{
+$('.list-sort-btn-miner').find('.currency').data('currency', 'all').text('All');
+$('.list-sort-btn-miner').find('.order').text('Descending by 24h profits');
+}
+}
+function bindCurrencySelectNav() {
+$('.currency-select-container-web').on('click', 'a', function(e){
+var currency = $(this).data('currency');
+var display_currency_code = $(this).data('display_currency_code');
+if(!currency || currency == ACTIVE_CURRENCY) return;
+$('.currency-select-container-web').find('a[data-currency="' + ACTIVE_CURRENCY + '"]').removeClass('active');
+changeActiveCurrencyPosition(currency, display_currency_code);
+$('.currency-select-container-web').find('a[data-currency="' + currency + '"]').addClass('active');
+ACTIVE_CURRENCY = currency;
+if(ACTIVE_MINER_TYPE == 'gpu-currency') {
+var table = $('#sort-by-currency-table').DataTable();
+table.column(0).search(currency == 'all' ? '' : currency).draw();
+}else {
+getList();
+}
+})
+}
+function changeActiveCurrencyPosition(currency, display_currency_code){
+if ($('.currency-select-container').find('a.item[data-currency="' + currency + '"]').length == 0) {
+$('.currency-select-container a.item.custom').remove();
+$('.dropdown-miner-list').before('<a class="item custom align-items-center justify-content-center d-flex" data-currency="' + currency + '" data-display_currency_code="'+ display_currency_code +'"' + '>' +
+'<img src="https://static.f2pool.com/assets/currencies/logo/' + currency + '-64x64.png" />' +
+'<span ' + (currency.length > 5 ? 'style="font-size: 12px;text-align: left;"' : '') + '>' + display_currency_code + '</span></a>');
+}
+}
+function updateCurrencySelectContainer(coins_list, activeCurrency){
+if(!coins_list) {
+if (ACTIVE_MINER_TYPE == 'gpu-currency') {
+coins_list = MINER_COINS_LIST;
+} else {
+coins_list = COINS_LIST[ACTIVE_MINER_TYPE.startsWith('gpu') ? 'gpu' : ACTIVE_MINER_TYPE];
+}
+}
+if(!activeCurrency) activeCurrency = ACTIVE_CURRENCY;
+$container = $('.currency-select-container');
+var content = '<a class="item d-flex align-items-center justify-content-center" data-currency="all" data-display_currency_code="all">All</a>';
+var dropdownMenu = ''
+var display_num;
+var win_width = $(window).width()
+if (win_width <= 767){
+display_num = 999;
+}else if( win_width > 767 && win_width <= 991){
+display_num = 6;
+}else if( win_width > 991 && win_width < 1080){
+display_num = 8;
+}else if (win_width >= 1080 && win_width < 1200) {
+display_num = 10;
+}else {
+display_num = 12;
+}
+var len = coins_list.length;
+if (len > display_num) {
+$container.toggleClass('justify-content-between', true);
+dropdownMenu = '<div class="dropdown dropdown-miner-list">' +
+'<a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" ' +
+'id="currencySelectDropdown" ' +
+'data-toggle="dropdown" ' +
+'aria-haspopup="true" ' +
+'aria-expanded="false"> ' +
+'More <i class="fa fa-chevron-down"></i>' +
+'</a>' +
+'<div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown">'
+}else{
+$container.toggleClass('justify-content-between', false);
+}
+coins_list.forEach(function(coin, idx){
+var coin_path = '/assets/currencies/logo/' + coin.name + '-64x64.png?ver=' + Math.random();
+var display_coin = coin.display_currency_code;
+if (idx <= display_num - 1 ){
+content += '<a class="item ' + (idx == display_num - 1 ? 'custom' : '') + ' align-items-center justify-content-center d-flex" data-currency="' + coin.name +'" ' + 'data-display_currency_code="' + coin.display_currency_code +'" ' +
+(coin.name.length > 5 ? 'style="font-size: 12px;text-align: left;"' : '') + '>' +
+'<img src="https://static.f2pool.com'+ coin_path + '" />' + display_coin + '</a>'
+}
+if (dropdownMenu) {
+dropdownMenu += '<a class="dropdown-item" data-currency="' + coin.name +'" data-display_currency_code="' + coin.display_currency_code +'">' +
+'<img src="https://static.f2pool.com'+ coin_path + '" />' + display_coin + '</a>'
+}
+})
+if (dropdownMenu) {
+content += dropdownMenu + '</div>';
+}
+content += '</div>'
+$container.html(content);
+$container.find('a[data-currency="' + activeCurrency + '"]').addClass('active');
+}
+function initGpuMinerList() {
+$.post({
+url: '/miners',
+data: {
+currency_code: '', //means all currency
+sort_by: 'hashrate',
+sort_type: 'desc',
+m_type: 'gpu',
+}
+}, function(res) {
+if (res.data) {
+res.data.forEach(function(item, idx){
+GPU_MINER_DICT[item.id] = item.name;
+if (item.name.startsWith('GTX 1060 8')) {
+CHECKED_MINER_ID = item.id;
+}
+})
+$('.search-box-miner-list .checked-miner').text(GPU_MINER_DICT[CHECKED_MINER_ID]).data('id', CHECKED_MINER_ID)
+var content = '';
+var content1 = '';
+for(key in GPU_MINER_DICT) {
+content += '<a class="dropdown-item" data-id=' + key + '>' + GPU_MINER_DICT[key] + '</a>';
+content1 += '<a class="item" data-id=' + key + '>' + GPU_MINER_DICT[key] + '</a>';
+}
+$('.search-box-miner-list .dropdown-menu').html(content);
+$('.collapse-content.miner-select-container').html(content1);
+}
+});
+}
+function bindSearchBoxMinerList() {
+$('.search-box-miner-list .dropdown-menu').on('click', 'a', function(e) {
+var id = $(this).data('id');
+var miner = $(this).text()
+if(id == CHECKED_MINER_ID) {
+return;
+}
+$('.search-box-miner-list .dropdown-menu .active').removeClass('active');
+$(this).addClass('active');
+$('.search-box-miner-list .checked-miner').text(miner);
+CHECKED_MINER_ID = id;
+getGpuMinerDetail(id);
+})
+}
+function getGpuMinerDetail(minerId, order) {
+$.get({
+url: '/miner?id=' + minerId + '&list_page=true',
+}, function(res){
+var data = res.data.coins;
+var minerPower = res.data.power;
+MINER_COINS_LIST = [];
+var gpuMinerDetailData = [];
+if (data) {
+for(item in data){
+MINER_COINS_LIST.push(data[item]);
+if (data[item].hashrate) {
+coins_24h = Big(data[item].profit_one_day.toFixed(8));
+}
+if (coins_24h && data[item].price) revenue_24h = coins_24h.times(data[item].price);
+config = {
+minerPower: minerPower,
+code: item,
+display_currency_code: data[item]['display_currency_code'],
+coins_24h: coins_24h && coins_24h.toFixed(coins_24h.gte(1e6) ? 2 : (coins_24h.gte(100) ? 4 : 8)),
+revenue_24h: revenue_24h && revenue_24h.toFixed(6),
+};
+gpuMinerDetailData.push($.extend(config, data[item]));
+}
+}
+updateCurrencySelectContainer(MINER_COINS_LIST, ACTIVE_CURRENCY);
+fillSortbyCurrencyTable(gpuMinerDetailData, minerId, order);
+});
+}
+function fillSortbyCurrencyTable(data, minerId, order) {
+$table = $('#sort-by-currency-table');
+if ($.fn.dataTable.isDataTable($table)){
+table = $table.DataTable().destroy();
+}
+if (!data) {
+data = [];
+}
+var order_column = 6; //default order: 'profit_24h'
+var order_type = 'desc'; //default order: 'desc'
+if (order && order.sort == 'revenue_24h') {
+order_column = 4;
+order_type = order.type;
+}
+$table.DataTable({
+data: data,
+paging: false,
+info: false,
+dom: "t",
+order: [[order_column, order_type]],
+autoWidth: false,
+scrollX: true,
+scrollCollapse: true,
+fixedColumns: true,
+drawCallback: function(settings) {
+var api = this.api();
+api.columns([2, 3, 4, 5, 6, 7]).visible($(window).width() > 767);
+},
+columns: [{
+data: 'code',
+className: 'name',
+orderable: false,
+render: function(data){
+var coin_path = '/assets/currencies/logo/' + data + '-64x64.png';
+var ret = '<img src="https://static.f2pool.com'+ coin_path + '" />' + data.toUpperCase();
+return ret;
+}
+},{
+data: 'hashrate_unit_value',
+className: 'hashrate',
+orderable: false,
+render: function(data, type, row){
+var ret = '-';
+if($(window).width() > 767){
+if (data) {
+ret = data + '<span class="unit">' + row.hashrate_unit_str + '</span>'
+}
+}else {
+var symbol = CURRENCY_CONF.globalUnit === 'cny' ? '¥' : '$'
+if(row.coins_24h) {
+ret = row.coins_24h + '<span class="unit">' + row.code.toUpperCase() + '</span>';
+}
+if(row.revenue_24h) {
+ret += ' / ' + '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + row.revenue_24h + '" data-rule="formatPrice">' + CURRENCY_FUNC.formatPrice(row.revenue_24h) + '</span>';
+}
+ret +='<div class="secondary">';
+if(row.price) {
+ret += '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + row.price + '" data-rule="formatPrice">' + CURRENCY_FUNC.formatPrice(row.price) + '</span>';
+}
+if(row.minerPower){
+var elec_24h = Big(row.minerPower).times(ELEC_FEE_USD).times(0.024).toFixed(6);
+ret += ' / ' + '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + elec_24h + '" data-rule="formatPrice">' + CURRENCY_FUNC.formatPrice(elec_24h) + '</span>';
+}
+ret +='</div>'
+}
+return ret;
+}
+},{
+data: 'coins_24h',
+className: 'coins-24h',
+orderable: false,
+render: function(data, type, row){
+var ret = '-'
+if (data) {
+ret = data + '<span class="unit">' + row.code.toUpperCase() + '</span>';
+}
+return ret;
+}
+},{
+data: 'price',
+className: 'price',
+orderable: false,
+render: function(data, type, row){
+var ret = '-'
+var symbol = CURRENCY_CONF.globalUnit === 'cny' ? '¥' : '$'
+if (data) {
+ret = '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + data + '" data-rule="formatPrice">' + CURRENCY_FUNC.formatPrice(data) + '</span>';
+}
+return ret;
+},
+},{
+data: 'revenue_24h',
+className: 'revenue-24h',
+name: 'revenue_24h',
+render: function(data, type, row){
+var ret = '-'
+var symbol = CURRENCY_CONF.globalUnit === 'cny' ? '¥' : '$'
+if (data) {
+ret = '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + data + '" data-rule="formatPrice">' + CURRENCY_FUNC.formatPrice(data) + '</span>';
+}
+return ret;
+},
+},{
+data: 'minerPower',
+className: 'elec-24h',
+orderable: false,
+render: function(data, type, row){
+var ret = '-'
+var symbol = CURRENCY_CONF.globalUnit === 'cny' ? '¥' : '$'
+if (data && ELEC_FEE_USD) {
+var elec_24h = Big(row.minerPower).times(ELEC_FEE_USD).times(0.024).toFixed(6);
+ret = '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + elec_24h + '" data-rule="formatPrice">' + CURRENCY_FUNC.formatPrice(elec_24h) + '</span>';
+}
+return ret;
+},
+},{
+data: 'minerPower',
+className: 'profit-24h',
+name: 'profit_24h',
+render: function(data, type, row){
+var ret = '-';
+var symbol = CURRENCY_CONF.globalUnit === 'cny' ? '¥' : '$';
+if (data && ELEC_FEE_USD && row.revenue_24h) {
+var elec_24h = Big(row.minerPower).times(ELEC_FEE_USD).times(0.024).toFixed(6);
+var profit_24h = Big(row.revenue_24h).minus(elec_24h).toFixed(6)
+ret = '<span class="money-symbol">' + symbol + '</span>' +
+'<span class="money-val" data-usd="' + profit_24h + '" data-rule="formatPrice_digit">' + CURRENCY_FUNC.formatPrice_digit(profit_24h, 2) + '</span>';;
+}
+return ret;
+},
+},{
+data: 'code',
+className: 'action',
+render: function(data, type, row){
+var ret = '<a class="btn-calc" href="/calculator?miner_id=' + minerId +'&currency=' + data +'">' +
+'Calc' + '</a>';
+return ret;
+},
+}]
+})
+}
+function bindSortbyCurrencyTable() {
+$('.sort-by-currency table').on('mouseenter', 'tbody tr', function(e){
+$(this).addClass('active')
+}).on('mouseleave', 'tbody tr', function(e){
+$(this).removeClass('active')
+})
+}
+function getList() {
+var sortKey = SORT_KEY;
+if (['hashrate', 'power'].indexOf(SORT_KEY) < 0 ||
+('' != 'btc' && SORT_KEY != 'coins_24h')) {
+sortKey = 'hashrate';
+}
+$.post({
+url: '/miners',
+data: {
+currency_code: ACTIVE_CURRENCY == 'all' ? '' : ACTIVE_CURRENCY,
+sort_by: sortKey,
+sort_type: SORT_TYPE || 'desc',
+m_type: ACTIVE_MINER_TYPE == 'all' ? '' : (ACTIVE_MINER_TYPE.startsWith('gpu') ? 'gpu' : ACTIVE_MINER_TYPE)
+}
+}, function(res) {
+ALL_DATA = res.data;
+fillTable();
+});
+}
+function fillTable() {
+var unitPower;
+var temp_coins_24h;
+if (!ALL_DATA) return;
+ALL_DATA.forEach(function(item) {
+temp_coins_24h = item.coins_24h;
+unitPower = item.hashrate_unit_value ? Big(item.power).div(item.hashrate_unit_value) : Big(0);
+item.unit_power = unitPower.toFixed(unitPower.lt(10) ? 1 : 0);
+item.revenue_24h = Big(temp_coins_24h).times(item.currency_price).toFixed(6);
+item.elec_24h = Big(item.power).times(ELEC_FEE_USD).times(0.024).toFixed(6);
+item.profit_24h = Big(item.revenue_24h).minus(item.elec_24h).toFixed(6);
+item.elec_rate = Big(item.revenue_24h).eq(0) ? 0 : Big(item.elec_24h).div(item.revenue_24h).toFixed(6);
+var temp = Big(temp_coins_24h).toFixed(0).length;
+item.coins_24h = Big(temp_coins_24h).toFixed(temp > 6 ? 2 : (temp > 100 ? 4 : 8));
+});
+if (SORT_KEY) {
+if (!SORT_TYPE) SORT_TYPE= 'desc';
+ALL_DATA.sort(function(a, b) {
+var numA = Number(a[SORT_KEY]);
+var numB = Number(b[SORT_KEY]);
+numA = isNaN(numA) ? -999999 : numA;
+numB = isNaN(numB) ? -999999 : numB;
+return (SORT_TYPE === 'desc' ? -1 : 1 ) * (numA - numB);
+});
+}
+$('.list-container .list-body').html('');
+$('.list-container-left .list-body').html(template('tpl-list-left', { data: ALL_DATA }));
+$('.list-container-right .list-body').html(template('tpl-list', { data: ALL_DATA, symbol: CURRENCY_CONF.globalUnit === 'cny' ? '¥' : '$' }));
+if($(window).width() > 767) {
+CURRENCY_FUNC.updateListHeaderStyle();
+CURRENCY_FUNC.bindStickyHeader($('.page-miner-list .list-container'), 240);
+}
+}
+function initTableSort() {
+$('.list-container').on('click', '.col-sort', function() {
+if ($(window).width() < 768) return;
+var $this = $(this);
+var $sortable = $this.find('.sortable');
+var sortKey = $sortable.data('sort');
+if (!sortKey) return;
+SORT_TYPE = $sortable.hasClass('desc') ? 'asc' : 'desc';
+SORT_KEY = sortKey;
+$('.col-sort .sortable').removeClass('desc asc');
+$sortable.addClass(SORT_TYPE);
+getList();
+});
+var $body = $('body');
+var $sortContainer = $('.list-sort-container');
+$('.list-sort-content').on('show.bs.collapse', function(e) {
+if (!$(this).is(e.target)) return;
+$body.addClass('modal-open modal-list-sort-open');
+if (!$sortContainer.hasClass('fix-top')) {
+$sortContainer.addClass('fix-top');
+if (!$('header.header').hasClass('header-fix-top')) $(window).scrollTop(0);
+}
+if ($body.find('.list-backdrop').length === 0) {
+$body.append($('<div class="list-backdrop show"></div>'));
+} else {
+$body.find('.list-backdrop').addClass('show');;
+}
+initListSortContent();
+}).on('hidden.bs.collapse', function(e) {
+if (!$(this).is(e.target)) return;
+if ($('.list-sort-content.show').length > 0 ||
+($('.list-sort-content.collapsing').length > 0 && !$('.list-sort-content.collapsing').is($(this)))) {
+return false;
+}
+$body.removeClass('modal-open modal-list-sort-open');
+$body.find('.list-backdrop').remove();;
+if (!$('header.header').hasClass('header-fix-top')) $sortContainer.removeClass('fix-top');
+});
+//点击下拉collapse
+$('.list-sort-content .collapse').on('show.bs.collapse', function(){
+$(this).prev().find('i').removeClass('fa-chevron-down').addClass('fa-chevron-up');
+$(this).parents('.list-sort-content').find('.collapse').collapse('hide');
+}).on('hide.bs.collapse', function(){
+$(this).prev().find('i').removeClass('fa-chevron-up').addClass('fa-chevron-down');
+})
+$('.currency-select-container-h5').on('click', '.item', function(e){
+var new_c = $(this).data('currency');
+var new_display_c = $(this).data('display_currency_code');
+$(this).siblings().removeClass('active');
+$(this).addClass('active');
+$('.list-sort-content-miner .btn-currency .info span').text(new_c == 'all' ? 'All' : new_display_c);
+$('.list-sort-content-miner .btn-currency').data('currency', new_c);
+})
+$('.miner-select-container').on('click', '.item', function(e){
+var new_miner = $(this).text();
+var new_id = $(this).data('id');
+$(this).siblings().removeClass('active');
+$(this).addClass('active')
+$('.list-sort-content-currency .btn-miner .title').text(new_miner);
+$('.list-sort-content-currency .btn-miner').data('id', new_id);
+})
+$('.order-type-container').on('click', '.item', function(e){
+var $container = $(this).parent('.order-type-container');
+var new_sort = $(this).data('sort');
+var new_type = $(this).data('type');
+var content = $(this).text();
+$(this).siblings().removeClass('active');
+$(this).addClass('active')
+$container.parents('.list-sort-content').find('.btn-sort .title').text(content);
+$container.parents('.list-sort-content').find('.btn-sort').data('sort', new_sort).data('type', new_type);
+})
+$('.list-sort-content .btn-submit').on('click', function(){
+var $container = $(this).parents('.list-sort-content')
+if (ACTIVE_MINER_TYPE == 'gpu-currency') {
+var id = $container.find('.btn-miner').data('id');
+var miner = $container.find('.btn-miner .title').text()
+var elec = $container.find('.btn-elec .money-val').val();
+var sort = $container.find('.btn-sort').data('sort');
+var type = $container.find('.btn-sort').data('type');
+var sort_content = $container.find('.btn-sort .title').text();
+$('.list-sort-btn-currency').find('.miner').text(miner);
+$('.list-sort-btn-currency').find('.ipt-elec').val(elec).trigger('change');
+$('.list-sort-btn-currency').find('.order').data('sort', sort).data('type', type).text(sort_content);
+$container.collapse('hide');
+if(id != CHECKED_MINER_ID) {
+CHECKED_MINER_ID = id;
+getGpuMinerDetail(id, {sort:sort, type: type});
+}else {
+var column_index = $('#sort-by-currency-table').DataTable().column(sort + ':name').index()
+$('#sort-by-currency-table').DataTable().order([column_index, type]).draw();
+}
+} else {
+var currency = $container.find('.btn-currency').data('currency');
+var elec = $container.find('.btn-elec .money-val').val();
+var sort = $container.find('.btn-sort').data('sort');
+var type = $container.find('.btn-sort').data('type');
+var sort_content = $container.find('.btn-sort .title').text();
+$('.list-sort-btn-miner').find('.currency').text(currency=='all' ? 'All' : currency.toUpperCase());
+$('.list-sort-btn-miner').find('.ipt-elec').val(elec).trigger('change');
+$('.list-sort-btn-miner').find('.order').text(sort_content);
+ACTIVE_CURRENCY = currency;
+SORT_KEY = sort;
+SORT_TYPE = type;
+$container.collapse('hide');
+$('.col-sort .sortable').removeClass('desc asc');
+$('.list-container .sortable[data-sort="' + sort + '"]').addClass(type);
+getList()
+}
+})
+$(document).on('click touchstart', function (e) {
+if ($body.hasClass('modal-list-sort-open')) {
+var $toggle = $('.list-sort-content');
+if (!$toggle.is(e.target) && $toggle.has(e.target).length === 0) {
+$toggle.collapse('hide');
+}
+}
+});
+}
+function initListSortContent() {
+if(ACTIVE_MINER_TYPE == 'gpu-currency') {
+//init list-sort-content-currency
+var $container = $('.list-sort-content-currency');
+$container.find('.btn-miner .title').text(GPU_MINER_DICT[CHECKED_MINER_ID]);
+$container.find('.btn-miner').data('id', CHECKED_MINER_ID);
+$container.find('.miner-select-container .item.active').removeClass('active');
+$container.find('.miner-select-container .item[data-id="' + CHECKED_MINER_ID + '"]').addClass('active');
+$container.find('.btn-elec input').val($('.list-sort-btn .money-val').val());
+$container.find('.order-type-container .item.active').removeClass('active');
+var sort = $('.list-sort-btn-currency .order').data('sort');
+var type = $('.list-sort-btn-currency .order').data('type');
+var text = $container.find('.order-type-container .item[data-sort="'+ sort +'"][data-type="'+ type +'"]').addClass('active').text();
+$container.find('.btn-sort .title').text(text);
+$container.find('.btn-sort').data('sort', sort).data('type', type);
+}else{
+//init list-sort-content-miner
+var $container = $('.list-sort-content-miner');
+$container.find('.btn-currency .info span').text(ACTIVE_CURRENCY == 'all' ? 'All' : ACTIVE_CURRENCY.toUpperCase());
+$container.find('.btn-currency').data('currency', ACTIVE_CURRENCY);
+updateCurrencySelectContainer();
+$container.find('.btn-elec input').val($('.list-sort-btn .money-val').val());
+$container.find('.order-type-container .item.active').removeClass('active');
+var sort = $('.list-sort-content-miner .order-type-container').find('.item[data-sort="'+ SORT_KEY +'"][data-type="'+ SORT_TYPE +'"]').addClass('active').text();
+$container.find('.btn-sort .title').text(sort);
+$container.find('.btn-sort').data('sort', SORT_KEY).data('type', SORT_TYPE);
+}
+}
+});
+</script>
+
+
+<script type="text/javascript" id="gtm-jq-ajax-listen">(function(){function h(b){"undefined"!==typeof jQuery?(k=jQuery,n()):20>b&&setTimeout(h,500)}function n(){k(document).bind("ajaxComplete",function(b,a,f){var c=document.createElement("a");c.href=f.url;var g="/"===c.pathname[0]?c.pathname:"/"+c.pathname,d="?"===c.search[0]?c.search.slice(1):c.search;d=l(d,"\x26","\x3d",!0);var e=l(a.getAllResponseHeaders(),"\n",":");dataLayer.push({event:"ajaxComplete",attributes:{type:f.type||"",url:c.href||"",queryParameters:d,pathname:g||"",hostname:c.hostname||
+"",protocol:c.protocol||"",fragment:c.hash||"",statusCode:a.status||"",statusText:a.statusText||"",headers:e,timestamp:b.timeStamp||"",contentType:f.contentType||"",response:a.responseJSON||a.responseXML||a.responseText||""}})})}function l(b,a,f,c){var g={};if(!b||!a||!f)return{};if(b=b.split(a))for(a=0;a<b.length;a++){var d=c?decodeURIComponent(b[a]):b[a],e=d.split(f);d=m(e[0]);e=m(e[1]);d&&e&&(g[d]=e)}return g}function m(b){if(b)return b.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,"")}var k;h()})();</script><iframe data-product="web_widget" title="No content" tabindex="-1" aria-hidden="true" src="about:blank" style="width: 0px; height: 0px; border: 0px; position: absolute; top: -9999px;"></iframe><div><iframe title="Opens a widget where you can find more information" id="launcher" tabindex="0" style="width: 109px; height: 50px; padding: 0px; margin: 10px 20px; position: fixed; bottom: 0px; overflow: visible; opacity: 1; border: 0px; z-index: 999998; transition-duration: 250ms; transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1); transition-property: opacity, top, bottom; right: 0px;"></iframe></div></body></html>
