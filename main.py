@@ -34,6 +34,10 @@ class Coin(db.Model):
     code = db.Column(db.String(100), unique=True)
     price = db.Column(db.String(100), nullable=False)
     network_hashrate = db.Column(db.String(100), nullable=False)
+    algo = db.Column(db.String(100))
+    reward = db.Column(db.String(100))
+    time = db.Column(db.String(100))
+
     date = db.Column(db.DateTime, nullable=False, default=datetime.utcnow)
     algorithm_id = db.Column(db.Integer, db.ForeignKey('algorithm.id'),
                              nullable=False)
@@ -50,6 +54,8 @@ class Miner(db.Model):
     coin = db.Column(db.String(100))
     hashrate = db.Column(db.String(100))
     power = db.Column(db.String(100))
+    algo = db.Column(db.String(100))
+
     algorithm_id = db.Column(db.Integer, db.ForeignKey('algorithm.id'),
                              nullable=False)
     algorithm = db.relationship('Algorithm',
@@ -111,16 +117,37 @@ algorithms_schema = AlgorithmSchema(many=True)
 
 # API
 
-TODOS = {
-    'todo1': {'task': 'build an API'},
-    'todo2': {'task': '?????'},
-    'todo3': {'task': 'profit!'},
-}
-
 
 def abort_if_coin_doesnt_exist(code):
     if Coin.query.filter_by(code=code).first() is None:
         abort(404, message="Coin {} doesn't exist".format(code))
+
+
+def abort_if_algo_doesnt_exist(name):
+    if Algorithm.query.filter_by(name=name).first() is None:
+        abort(404, message="Coin {} doesn't exist".format(name))
+
+
+class AlgoInfo(Resource):
+    def get(self, name):
+        abort_if_algo_doesnt_exist(name)
+        algo = Algorithm.query.filter_by(name=name).first()
+        minerArr = []
+        for miner in algo.miners:
+            minerArr.append(miner_schema.dump(miner))
+        coinArr = []
+        for coin in algo.coins:
+            coinArr.append(coin_schema.dump(coin))
+        return {'info': algorithm_schema.dump(algo), 'coins': coinArr, 'miners': minerArr}
+
+
+class AlgoInfoList(Resource):
+    def get(self):
+        algos = Algorithm.query.all()
+        algoArr = []
+        for algo in algos:
+            algoArr.append(algorithm_schema.dump(algo))
+        return algoArr
 
 
 class CoinInfo(Resource):
@@ -143,21 +170,18 @@ class CoinInfoList(Resource):
         coins = Coin.query.all()
         coinArr = []
         for coin in coins:
-            poolArr = []
-            for pool in coin.pools:
-                poolArr.append(pool_schema.dump(pool))
-
-            minerArr = []
-            for miner in coin.algorithm.miners:
-                minerArr.append(miner_schema.dump(miner))
-            coinArr.append({'info': coin_schema.dump(coin), 'pools': poolArr, 'miners': minerArr})
+            coinArr.append(coin_schema.dump(coin))
         return coinArr
+
 
 # Basic HTML for home page
 @app.route("/")
 def home():
     return "<h1>You've Reached the Cryptocurrency Energy Consumption Index Data API</h1>"
 
+
+api.add_resource(AlgoInfo, '/algorithms/<name>')
+api.add_resource(AlgoInfoList, '/algorithms')
 
 api.add_resource(CoinInfo, '/coins/<code>')
 api.add_resource(CoinInfoList, '/coins')

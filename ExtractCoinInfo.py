@@ -22,13 +22,34 @@ def getCoinInfo():
 
         coinDB = Coin.query.filter_by(code=code).first()
         if coinDB is None:
-            coinDB = Coin(name=name, code=code, price=price, network_hashrate=network_hashrate, algorithm=algoDB)
+            coinDB = Coin(name=name, code=code, price=price, network_hashrate=network_hashrate, algo=algorithm, algorithm=algoDB)
             db.session.add(coinDB)
         else:
-            coinDB.name = name
             coinDB.price = price
             coinDB.network_hashrate = network_hashrate
-            coinDB.algorithm = algoDB
+    db.session.commit()
+
+
+def getBlockInfo():
+    file = open("CoinStats/block.txt", "r")
+    soup = BeautifulSoup(file.read(), 'html.parser')
+    coins = soup.find(id="tblCoins").find_all("tr")
+    for coin in coins:
+        name = coin.find(class_="calc-link")
+        if name is not None:
+            info = name.parent.parent.next_sibling.next_sibling
+            reward = info.find_all('span')[0].get_text()
+            time = info.find_all('span')[1].get_text()
+            text = name.get_text()
+            start = text.find('(')
+            end = text.find(')')
+            code = text[start + 1:end]
+
+            coinDB = Coin.query.filter_by(code=code).first()
+
+            if coinDB is not None:
+                coinDB.reward = reward
+                coinDB.time = time
     db.session.commit()
 
 
@@ -87,7 +108,7 @@ def getMinerInfo(path):
             algoDB = coinDB.algorithm
             minerDB = Miner.query.filter_by(name=name, algorithm=algoDB).first()
             if minerDB is None:
-                minerDB = Miner(name=name, hashrate=hashrate, power=power, coin=coinDB.code, algorithm=algoDB)
+                minerDB = Miner(name=name, hashrate=hashrate, power=power, coin=coinDB.code, algo=coinDB.algo, algorithm=algoDB)
                 db.session.add(minerDB)
             else:
                 minerDB.hashrate = hashrate
@@ -121,6 +142,8 @@ def main():
     getCoinInfo()
     InsertPoolsIntoDB()
     InsertMinersIntoDB()
+    getBlockInfo()
+
 
 
 if __name__ == "__main__":

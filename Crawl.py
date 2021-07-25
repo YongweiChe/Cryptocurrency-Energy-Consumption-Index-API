@@ -76,9 +76,26 @@ def CrawlMiners():
     driver.close()
 
 
+def CrawlCoins():
+    PATH = '/usr/local/bin/chromedriver'
+    driver = webdriver.Chrome(PATH)
+
+    driver.get("https://www.coinwarz.com/cryptocurrency")
+    WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "tblCoins"))
+    )
+
+    sys.stdout = open("CoinStats/block.txt", "w")
+    print(driver.page_source)
+
+    sys.stdout.close()
+    driver.close()
+
+
 def main():
     CrawlPools()
     CrawlMiners()
+    CrawlCoins()
 
 
 if __name__ == "__main__":
