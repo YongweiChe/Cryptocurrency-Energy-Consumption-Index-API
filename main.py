@@ -153,9 +153,14 @@ class CoinInfoList(Resource):
             coinArr.append({'info': coin_schema.dump(coin), 'pools': poolArr, 'miners': minerArr})
         return coinArr
 
+# Basic HTML for home page
+@app.route("/")
+def home():
+    return "<h1>You've Reached the Cryptocurrency Energy Consumption Index Data API</h1>"
+
 
 api.add_resource(CoinInfo, '/coins/<code>')
 api.add_resource(CoinInfoList, '/coins')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
