@@ -8,7 +8,7 @@ Used Selenium to scrape Mining Pool data and Mining Hardware data for the twenty
 Uses SQLAlchemy to to store the scraped data in a mySQL database
 
 ## API
-Deployed API, where you can get:
+Flask API where you can GET:
 - Coin name
 - Price
 - Network hashrate
