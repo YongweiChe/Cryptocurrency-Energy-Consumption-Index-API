@@ -208,7 +208,7 @@ GPU (by Coin)
 </div>
 </div>
 </div>
-<div class="currency-select-container currency-select-container-web d-none d-md-flex justify-content-between"><a class="item d-flex align-items-center justify-content-center" data-currency="all" data-display_currency_code="all">All</a><a class="item align-items-center justify-content-center d-flex" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="item align-items-center justify-content-center d-flex" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="item align-items-center justify-content-center d-flex" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="item align-items-center justify-content-center d-flex" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="item align-items-center justify-content-center d-flex" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="item align-items-center justify-content-center d-flex" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="item align-items-center justify-content-center d-flex" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="item align-items-center justify-content-center d-flex" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="item align-items-center justify-content-center d-flex" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="item align-items-center justify-content-center d-flex" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="item align-items-center justify-content-center d-flex" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="item custom align-items-center justify-content-center d-flex active" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png"><span>PGN</span></a><div class="dropdown dropdown-miner-list"><a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" id="currencySelectDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown" style=""><a class="dropdown-item" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="dropdown-item" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="dropdown-item" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="dropdown-item" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="dropdown-item" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="dropdown-item" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="dropdown-item" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="dropdown-item" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="dropdown-item" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="dropdown-item" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="dropdown-item" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="dropdown-item" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.7176078623145206">BCH</a><a class="dropdown-item" data-currency="bsv" data-display_currency_code="BSV"><img src="https://static.f2pool.com/assets/currencies/logo/bsv-64x64.png?ver=0.25245664133924306">BSV</a><a class="dropdown-item" data-currency="dgb-sha256d" data-display_currency_code="DGB-SHA256D"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-sha256d-64x64.png?ver=0.7955091282271836">DGB-SHA256D</a><a class="dropdown-item" data-currency="dgb-scrypt" data-display_currency_code="DGB-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-scrypt-64x64.png?ver=0.45879185128006594">DGB-SCRYPT</a><a class="dropdown-item" data-currency="xvg-scrypt" data-display_currency_code="XVG-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-scrypt-64x64.png?ver=0.43839142421922905">XVG-SCRYPT</a><a class="dropdown-item" data-currency="sero" data-display_currency_code="SERO"><img src="https://static.f2pool.com/assets/currencies/logo/sero-64x64.png?ver=0.5291784415916669">SERO</a><a class="dropdown-item" data-currency="xvg-x17" data-display_currency_code="XVG-X17"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-x17-64x64.png?ver=0.8596258365184701">XVG-X17</a><a class="dropdown-item" data-currency="rvn" data-display_currency_code="RVN"><img src="https://static.f2pool.com/assets/currencies/logo/rvn-64x64.png?ver=0.25648797804264856">RVN</a><a class="dropdown-item" data-currency="beam" data-display_currency_code="BEAM"><img src="https://static.f2pool.com/assets/currencies/logo/beam-64x64.png?ver=0.7717980557017803">BEAM</a><a class="dropdown-item" data-currency="cfx" data-display_currency_code="CFX"><img src="https://static.f2pool.com/assets/currencies/logo/cfx-64x64.png?ver=0.060849493220613615">CFX</a><a class="dropdown-item active" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png?ver=0.9612620156594491">PGN</a><a class="dropdown-item" data-currency="chi" data-display_currency_code="CHI"><img src="https://static.f2pool.com/assets/currencies/logo/chi-64x64.png?ver=0.9629774163538338">CHI</a><a class="dropdown-item" data-currency="dgb-qubit" data-display_currency_code="DGB-QUBIT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-qubit-64x64.png?ver=0.8740788546044034">DGB-QUBIT</a><a class="dropdown-item" data-currency="xvg-groestl" data-display_currency_code="XVG-GROESTL"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-groestl-64x64.png?ver=0.20166326821743752">XVG-GROESTL</a><a class="dropdown-item" data-currency="dgb-skein" data-display_currency_code="DGB-SKEIN"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-skein-64x64.png?ver=0.921961546130317">DGB-SKEIN</a><a class="dropdown-item" data-currency="btm" data-display_currency_code="BTM"><img src="https://static.f2pool.com/assets/currencies/logo/btm-64x64.png?ver=0.20721124609960406">BTM</a><a class="dropdown-item" data-currency="mona" data-display_currency_code="MONA"><img src="https://static.f2pool.com/assets/currencies/logo/mona-64x64.png?ver=0.9327940008472324">MONA</a><a class="dropdown-item" data-currency="rvc" data-display_currency_code="RVC"><img src="https://static.f2pool.com/assets/currencies/logo/rvc-64x64.png?ver=0.2452695244170091">RVC</a><a class="dropdown-item" data-currency="xvg-lyra" data-display_currency_code="XVG-LYRA2REV2"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-lyra-64x64.png?ver=0.5690692969010567">XVG-LYRA2REV2</a><a class="dropdown-item" data-currency="dgb-odocrypt" data-display_currency_code="DGB-ODOCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-odocrypt-64x64.png?ver=0.2462886052306883">DGB-ODOCRYPT</a><a class="dropdown-item" data-currency="bcd" data-display_currency_code="BCD"><img src="https://static.f2pool.com/assets/currencies/logo/bcd-64x64.png?ver=0.2576770704855216">BCD</a><a class="dropdown-item" data-currency="ckb" data-display_currency_code="CKB"><img src="https://static.f2pool.com/assets/currencies/logo/ckb-64x64.png?ver=0.35339011463682257">CKB</a><a class="dropdown-item" data-currency="hns" data-display_currency_code="HNS"><img src="https://static.f2pool.com/assets/currencies/logo/hns-64x64.png?ver=0.04492307454484301">HNS</a><a class="dropdown-item" data-currency="kda" data-display_currency_code="KDA"><img src="https://static.f2pool.com/assets/currencies/logo/kda-64x64.png?ver=0.5261802483660547">KDA</a><a class="dropdown-item" data-currency="stc" data-display_currency_code="STC"><img src="https://static.f2pool.com/assets/currencies/logo/stc-64x64.png?ver=0.5985270831933966">STC</a></div></div></div>
+<div class="currency-select-container currency-select-container-web d-none d-md-flex justify-content-between"><a class="item d-flex align-items-center justify-content-center" data-currency="all" data-display_currency_code="all">All</a><a class="item align-items-center justify-content-center d-flex" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.5815412115212628">BTC</a><a class="item align-items-center justify-content-center d-flex" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.9900208260725174">LTC</a><a class="item align-items-center justify-content-center d-flex" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.6788651665698129">ZEC</a><a class="item align-items-center justify-content-center d-flex" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.2824533101937656">ETH</a><a class="item align-items-center justify-content-center d-flex" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6669744622093101">ETC</a><a class="item align-items-center justify-content-center d-flex" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.3416759621039245">SC</a><a class="item align-items-center justify-content-center d-flex" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.5271636821317567">DASH</a><a class="item align-items-center justify-content-center d-flex" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.6869955651104185">XMR</a><a class="item align-items-center justify-content-center d-flex" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.8075536375709154">DCR</a><a class="item align-items-center justify-content-center d-flex" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.8055187088092233">FIRO</a><a class="item align-items-center justify-content-center d-flex" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.7161210439482597">ZEN</a><a class="item custom align-items-center justify-content-center d-flex active" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png"><span>PGN</span></a><div class="dropdown dropdown-miner-list"><a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" id="currencySelectDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown" style=""><a class="dropdown-item" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.5815412115212628">BTC</a><a class="dropdown-item" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.9900208260725174">LTC</a><a class="dropdown-item" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.6788651665698129">ZEC</a><a class="dropdown-item" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.2824533101937656">ETH</a><a class="dropdown-item" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6669744622093101">ETC</a><a class="dropdown-item" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.3416759621039245">SC</a><a class="dropdown-item" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.5271636821317567">DASH</a><a class="dropdown-item" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.6869955651104185">XMR</a><a class="dropdown-item" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.8075536375709154">DCR</a><a class="dropdown-item" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.8055187088092233">FIRO</a><a class="dropdown-item" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.7161210439482597">ZEN</a><a class="dropdown-item" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.05463176434870043">BCH</a><a class="dropdown-item" data-currency="bsv" data-display_currency_code="BSV"><img src="https://static.f2pool.com/assets/currencies/logo/bsv-64x64.png?ver=0.9925574384243301">BSV</a><a class="dropdown-item" data-currency="dgb-sha256d" data-display_currency_code="DGB-SHA256D"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-sha256d-64x64.png?ver=0.47283298286409603">DGB-SHA256D</a><a class="dropdown-item" data-currency="dgb-scrypt" data-display_currency_code="DGB-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-scrypt-64x64.png?ver=0.7605989303655498">DGB-SCRYPT</a><a class="dropdown-item" data-currency="xvg-scrypt" data-display_currency_code="XVG-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-scrypt-64x64.png?ver=0.27026212148974715">XVG-SCRYPT</a><a class="dropdown-item" data-currency="sero" data-display_currency_code="SERO"><img src="https://static.f2pool.com/assets/currencies/logo/sero-64x64.png?ver=0.48557531640031004">SERO</a><a class="dropdown-item" data-currency="xvg-x17" data-display_currency_code="XVG-X17"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-x17-64x64.png?ver=0.2280930294748389">XVG-X17</a><a class="dropdown-item" data-currency="rvn" data-display_currency_code="RVN"><img src="https://static.f2pool.com/assets/currencies/logo/rvn-64x64.png?ver=0.40326274982179666">RVN</a><a class="dropdown-item" data-currency="beam" data-display_currency_code="BEAM"><img src="https://static.f2pool.com/assets/currencies/logo/beam-64x64.png?ver=0.7364884474424911">BEAM</a><a class="dropdown-item" data-currency="cfx" data-display_currency_code="CFX"><img src="https://static.f2pool.com/assets/currencies/logo/cfx-64x64.png?ver=0.5327109489179009">CFX</a><a class="dropdown-item active" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png?ver=0.15105307963369108">PGN</a><a class="dropdown-item" data-currency="chi" data-display_currency_code="CHI"><img src="https://static.f2pool.com/assets/currencies/logo/chi-64x64.png?ver=0.0057786328510947005">CHI</a><a class="dropdown-item" data-currency="dgb-qubit" data-display_currency_code="DGB-QUBIT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-qubit-64x64.png?ver=0.5132603220204988">DGB-QUBIT</a><a class="dropdown-item" data-currency="xvg-groestl" data-display_currency_code="XVG-GROESTL"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-groestl-64x64.png?ver=0.9783230388649413">XVG-GROESTL</a><a class="dropdown-item" data-currency="dgb-skein" data-display_currency_code="DGB-SKEIN"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-skein-64x64.png?ver=0.47644305272563536">DGB-SKEIN</a><a class="dropdown-item" data-currency="btm" data-display_currency_code="BTM"><img src="https://static.f2pool.com/assets/currencies/logo/btm-64x64.png?ver=0.9195884954554854">BTM</a><a class="dropdown-item" data-currency="mona" data-display_currency_code="MONA"><img src="https://static.f2pool.com/assets/currencies/logo/mona-64x64.png?ver=0.16286775243486895">MONA</a><a class="dropdown-item" data-currency="rvc" data-display_currency_code="RVC"><img src="https://static.f2pool.com/assets/currencies/logo/rvc-64x64.png?ver=0.0021921109080071943">RVC</a><a class="dropdown-item" data-currency="xvg-lyra" data-display_currency_code="XVG-LYRA2REV2"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-lyra-64x64.png?ver=0.9626015272570201">XVG-LYRA2REV2</a><a class="dropdown-item" data-currency="dgb-odocrypt" data-display_currency_code="DGB-ODOCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-odocrypt-64x64.png?ver=0.011085385552423999">DGB-ODOCRYPT</a><a class="dropdown-item" data-currency="bcd" data-display_currency_code="BCD"><img src="https://static.f2pool.com/assets/currencies/logo/bcd-64x64.png?ver=0.9639610063698856">BCD</a><a class="dropdown-item" data-currency="ckb" data-display_currency_code="CKB"><img src="https://static.f2pool.com/assets/currencies/logo/ckb-64x64.png?ver=0.08695779849037488">CKB</a><a class="dropdown-item" data-currency="hns" data-display_currency_code="HNS"><img src="https://static.f2pool.com/assets/currencies/logo/hns-64x64.png?ver=0.02771197613886245">HNS</a><a class="dropdown-item" data-currency="kda" data-display_currency_code="KDA"><img src="https://static.f2pool.com/assets/currencies/logo/kda-64x64.png?ver=0.5652741798826044">KDA</a><a class="dropdown-item" data-currency="stc" data-display_currency_code="STC"><img src="https://static.f2pool.com/assets/currencies/logo/stc-64x64.png?ver=0.8032724084603695">STC</a></div></div></div>
 </div>
 <div class="list-sort-container d-block d-md-none">
 <div class="list-sort">
@@ -250,7 +250,7 @@ Descending by 24h profits
 <div class="info"><span></span><i class="fal fa-chevron-down"></i></div>
 </button>
 <div id="collapseOne" class="collapse" aria-labelledby="headingOne">
-<div class="collapse-content currency-select-container currency-select-container-h5 justify-content-between"><a class="item d-flex align-items-center justify-content-center active" data-currency="all" data-display_currency_code="all">All</a><a class="item  align-items-center justify-content-center d-flex" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="item  align-items-center justify-content-center d-flex" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="item  align-items-center justify-content-center d-flex" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="item  align-items-center justify-content-center d-flex" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="item  align-items-center justify-content-center d-flex" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="item  align-items-center justify-content-center d-flex" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="item custom align-items-center justify-content-center d-flex" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png"><span>PGN</span></a><div class="dropdown dropdown-miner-list"><a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" id="currencySelectDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown"><a class="dropdown-item" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.01891401624669342">BTC</a><a class="dropdown-item" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.4081753353048998">LTC</a><a class="dropdown-item" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.19520239407097306">ZEC</a><a class="dropdown-item" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.37141311474652894">ETH</a><a class="dropdown-item" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6819001140485192">ETC</a><a class="dropdown-item" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.22220382532361027">SC</a><a class="dropdown-item" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.48994540195801717">DASH</a><a class="dropdown-item" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.4622135403857681">XMR</a><a class="dropdown-item" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.4702584088598827">DCR</a><a class="dropdown-item" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.5010549493388126">FIRO</a><a class="dropdown-item" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.2267988632247031">ZEN</a><a class="dropdown-item" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.7176078623145206">BCH</a><a class="dropdown-item" data-currency="bsv" data-display_currency_code="BSV"><img src="https://static.f2pool.com/assets/currencies/logo/bsv-64x64.png?ver=0.25245664133924306">BSV</a><a class="dropdown-item" data-currency="dgb-sha256d" data-display_currency_code="DGB-SHA256D"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-sha256d-64x64.png?ver=0.7955091282271836">DGB-SHA256D</a><a class="dropdown-item" data-currency="dgb-scrypt" data-display_currency_code="DGB-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-scrypt-64x64.png?ver=0.45879185128006594">DGB-SCRYPT</a><a class="dropdown-item" data-currency="xvg-scrypt" data-display_currency_code="XVG-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-scrypt-64x64.png?ver=0.43839142421922905">XVG-SCRYPT</a><a class="dropdown-item" data-currency="sero" data-display_currency_code="SERO"><img src="https://static.f2pool.com/assets/currencies/logo/sero-64x64.png?ver=0.5291784415916669">SERO</a><a class="dropdown-item" data-currency="xvg-x17" data-display_currency_code="XVG-X17"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-x17-64x64.png?ver=0.8596258365184701">XVG-X17</a><a class="dropdown-item" data-currency="rvn" data-display_currency_code="RVN"><img src="https://static.f2pool.com/assets/currencies/logo/rvn-64x64.png?ver=0.25648797804264856">RVN</a><a class="dropdown-item" data-currency="beam" data-display_currency_code="BEAM"><img src="https://static.f2pool.com/assets/currencies/logo/beam-64x64.png?ver=0.7717980557017803">BEAM</a><a class="dropdown-item" data-currency="cfx" data-display_currency_code="CFX"><img src="https://static.f2pool.com/assets/currencies/logo/cfx-64x64.png?ver=0.060849493220613615">CFX</a><a class="dropdown-item" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png?ver=0.9612620156594491">PGN</a><a class="dropdown-item" data-currency="chi" data-display_currency_code="CHI"><img src="https://static.f2pool.com/assets/currencies/logo/chi-64x64.png?ver=0.9629774163538338">CHI</a><a class="dropdown-item" data-currency="dgb-qubit" data-display_currency_code="DGB-QUBIT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-qubit-64x64.png?ver=0.8740788546044034">DGB-QUBIT</a><a class="dropdown-item" data-currency="xvg-groestl" data-display_currency_code="XVG-GROESTL"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-groestl-64x64.png?ver=0.20166326821743752">XVG-GROESTL</a><a class="dropdown-item" data-currency="dgb-skein" data-display_currency_code="DGB-SKEIN"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-skein-64x64.png?ver=0.921961546130317">DGB-SKEIN</a><a class="dropdown-item" data-currency="btm" data-display_currency_code="BTM"><img src="https://static.f2pool.com/assets/currencies/logo/btm-64x64.png?ver=0.20721124609960406">BTM</a><a class="dropdown-item" data-currency="mona" data-display_currency_code="MONA"><img src="https://static.f2pool.com/assets/currencies/logo/mona-64x64.png?ver=0.9327940008472324">MONA</a><a class="dropdown-item" data-currency="rvc" data-display_currency_code="RVC"><img src="https://static.f2pool.com/assets/currencies/logo/rvc-64x64.png?ver=0.2452695244170091">RVC</a><a class="dropdown-item" data-currency="xvg-lyra" data-display_currency_code="XVG-LYRA2REV2"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-lyra-64x64.png?ver=0.5690692969010567">XVG-LYRA2REV2</a><a class="dropdown-item" data-currency="dgb-odocrypt" data-display_currency_code="DGB-ODOCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-odocrypt-64x64.png?ver=0.2462886052306883">DGB-ODOCRYPT</a><a class="dropdown-item" data-currency="bcd" data-display_currency_code="BCD"><img src="https://static.f2pool.com/assets/currencies/logo/bcd-64x64.png?ver=0.2576770704855216">BCD</a><a class="dropdown-item" data-currency="ckb" data-display_currency_code="CKB"><img src="https://static.f2pool.com/assets/currencies/logo/ckb-64x64.png?ver=0.35339011463682257">CKB</a><a class="dropdown-item" data-currency="hns" data-display_currency_code="HNS"><img src="https://static.f2pool.com/assets/currencies/logo/hns-64x64.png?ver=0.04492307454484301">HNS</a><a class="dropdown-item" data-currency="kda" data-display_currency_code="KDA"><img src="https://static.f2pool.com/assets/currencies/logo/kda-64x64.png?ver=0.5261802483660547">KDA</a><a class="dropdown-item" data-currency="stc" data-display_currency_code="STC"><img src="https://static.f2pool.com/assets/currencies/logo/stc-64x64.png?ver=0.5985270831933966">STC</a></div></div></div>
+<div class="collapse-content currency-select-container currency-select-container-h5 justify-content-between"><a class="item d-flex align-items-center justify-content-center active" data-currency="all" data-display_currency_code="all">All</a><a class="item  align-items-center justify-content-center d-flex" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.5815412115212628">BTC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.9900208260725174">LTC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.6788651665698129">ZEC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.2824533101937656">ETH</a><a class="item  align-items-center justify-content-center d-flex" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6669744622093101">ETC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.3416759621039245">SC</a><a class="item  align-items-center justify-content-center d-flex" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.5271636821317567">DASH</a><a class="item  align-items-center justify-content-center d-flex" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.6869955651104185">XMR</a><a class="item  align-items-center justify-content-center d-flex" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.8075536375709154">DCR</a><a class="item  align-items-center justify-content-center d-flex" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.8055187088092233">FIRO</a><a class="item  align-items-center justify-content-center d-flex" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.7161210439482597">ZEN</a><a class="item custom align-items-center justify-content-center d-flex" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png"><span>PGN</span></a><div class="dropdown dropdown-miner-list"><a class="item d-flex align-items-center justify-content-center item-more dropdown-toggle" id="currencySelectDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> More <i class="fa fa-chevron-down"></i></a><div class="dropdown-menu dropdown-menu-right" aria-labelledby="currencySelectDropdown"><a class="dropdown-item" data-currency="btc" data-display_currency_code="BTC"><img src="https://static.f2pool.com/assets/currencies/logo/btc-64x64.png?ver=0.5815412115212628">BTC</a><a class="dropdown-item" data-currency="ltc" data-display_currency_code="LTC"><img src="https://static.f2pool.com/assets/currencies/logo/ltc-64x64.png?ver=0.9900208260725174">LTC</a><a class="dropdown-item" data-currency="zec" data-display_currency_code="ZEC"><img src="https://static.f2pool.com/assets/currencies/logo/zec-64x64.png?ver=0.6788651665698129">ZEC</a><a class="dropdown-item" data-currency="eth" data-display_currency_code="ETH"><img src="https://static.f2pool.com/assets/currencies/logo/eth-64x64.png?ver=0.2824533101937656">ETH</a><a class="dropdown-item" data-currency="etc" data-display_currency_code="ETC"><img src="https://static.f2pool.com/assets/currencies/logo/etc-64x64.png?ver=0.6669744622093101">ETC</a><a class="dropdown-item" data-currency="sc" data-display_currency_code="SC"><img src="https://static.f2pool.com/assets/currencies/logo/sc-64x64.png?ver=0.3416759621039245">SC</a><a class="dropdown-item" data-currency="dash" data-display_currency_code="DASH"><img src="https://static.f2pool.com/assets/currencies/logo/dash-64x64.png?ver=0.5271636821317567">DASH</a><a class="dropdown-item" data-currency="xmr" data-display_currency_code="XMR"><img src="https://static.f2pool.com/assets/currencies/logo/xmr-64x64.png?ver=0.6869955651104185">XMR</a><a class="dropdown-item" data-currency="dcr" data-display_currency_code="DCR"><img src="https://static.f2pool.com/assets/currencies/logo/dcr-64x64.png?ver=0.8075536375709154">DCR</a><a class="dropdown-item" data-currency="xzc" data-display_currency_code="FIRO"><img src="https://static.f2pool.com/assets/currencies/logo/xzc-64x64.png?ver=0.8055187088092233">FIRO</a><a class="dropdown-item" data-currency="zen" data-display_currency_code="ZEN"><img src="https://static.f2pool.com/assets/currencies/logo/zen-64x64.png?ver=0.7161210439482597">ZEN</a><a class="dropdown-item" data-currency="bch" data-display_currency_code="BCH"><img src="https://static.f2pool.com/assets/currencies/logo/bch-64x64.png?ver=0.05463176434870043">BCH</a><a class="dropdown-item" data-currency="bsv" data-display_currency_code="BSV"><img src="https://static.f2pool.com/assets/currencies/logo/bsv-64x64.png?ver=0.9925574384243301">BSV</a><a class="dropdown-item" data-currency="dgb-sha256d" data-display_currency_code="DGB-SHA256D"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-sha256d-64x64.png?ver=0.47283298286409603">DGB-SHA256D</a><a class="dropdown-item" data-currency="dgb-scrypt" data-display_currency_code="DGB-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-scrypt-64x64.png?ver=0.7605989303655498">DGB-SCRYPT</a><a class="dropdown-item" data-currency="xvg-scrypt" data-display_currency_code="XVG-SCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-scrypt-64x64.png?ver=0.27026212148974715">XVG-SCRYPT</a><a class="dropdown-item" data-currency="sero" data-display_currency_code="SERO"><img src="https://static.f2pool.com/assets/currencies/logo/sero-64x64.png?ver=0.48557531640031004">SERO</a><a class="dropdown-item" data-currency="xvg-x17" data-display_currency_code="XVG-X17"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-x17-64x64.png?ver=0.2280930294748389">XVG-X17</a><a class="dropdown-item" data-currency="rvn" data-display_currency_code="RVN"><img src="https://static.f2pool.com/assets/currencies/logo/rvn-64x64.png?ver=0.40326274982179666">RVN</a><a class="dropdown-item" data-currency="beam" data-display_currency_code="BEAM"><img src="https://static.f2pool.com/assets/currencies/logo/beam-64x64.png?ver=0.7364884474424911">BEAM</a><a class="dropdown-item" data-currency="cfx" data-display_currency_code="CFX"><img src="https://static.f2pool.com/assets/currencies/logo/cfx-64x64.png?ver=0.5327109489179009">CFX</a><a class="dropdown-item" data-currency="pgn" data-display_currency_code="PGN"><img src="https://static.f2pool.com/assets/currencies/logo/pgn-64x64.png?ver=0.15105307963369108">PGN</a><a class="dropdown-item" data-currency="chi" data-display_currency_code="CHI"><img src="https://static.f2pool.com/assets/currencies/logo/chi-64x64.png?ver=0.0057786328510947005">CHI</a><a class="dropdown-item" data-currency="dgb-qubit" data-display_currency_code="DGB-QUBIT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-qubit-64x64.png?ver=0.5132603220204988">DGB-QUBIT</a><a class="dropdown-item" data-currency="xvg-groestl" data-display_currency_code="XVG-GROESTL"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-groestl-64x64.png?ver=0.9783230388649413">XVG-GROESTL</a><a class="dropdown-item" data-currency="dgb-skein" data-display_currency_code="DGB-SKEIN"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-skein-64x64.png?ver=0.47644305272563536">DGB-SKEIN</a><a class="dropdown-item" data-currency="btm" data-display_currency_code="BTM"><img src="https://static.f2pool.com/assets/currencies/logo/btm-64x64.png?ver=0.9195884954554854">BTM</a><a class="dropdown-item" data-currency="mona" data-display_currency_code="MONA"><img src="https://static.f2pool.com/assets/currencies/logo/mona-64x64.png?ver=0.16286775243486895">MONA</a><a class="dropdown-item" data-currency="rvc" data-display_currency_code="RVC"><img src="https://static.f2pool.com/assets/currencies/logo/rvc-64x64.png?ver=0.0021921109080071943">RVC</a><a class="dropdown-item" data-currency="xvg-lyra" data-display_currency_code="XVG-LYRA2REV2"><img src="https://static.f2pool.com/assets/currencies/logo/xvg-lyra-64x64.png?ver=0.9626015272570201">XVG-LYRA2REV2</a><a class="dropdown-item" data-currency="dgb-odocrypt" data-display_currency_code="DGB-ODOCRYPT"><img src="https://static.f2pool.com/assets/currencies/logo/dgb-odocrypt-64x64.png?ver=0.011085385552423999">DGB-ODOCRYPT</a><a class="dropdown-item" data-currency="bcd" data-display_currency_code="BCD"><img src="https://static.f2pool.com/assets/currencies/logo/bcd-64x64.png?ver=0.9639610063698856">BCD</a><a class="dropdown-item" data-currency="ckb" data-display_currency_code="CKB"><img src="https://static.f2pool.com/assets/currencies/logo/ckb-64x64.png?ver=0.08695779849037488">CKB</a><a class="dropdown-item" data-currency="hns" data-display_currency_code="HNS"><img src="https://static.f2pool.com/assets/currencies/logo/hns-64x64.png?ver=0.02771197613886245">HNS</a><a class="dropdown-item" data-currency="kda" data-display_currency_code="KDA"><img src="https://static.f2pool.com/assets/currencies/logo/kda-64x64.png?ver=0.5652741798826044">KDA</a><a class="dropdown-item" data-currency="stc" data-display_currency_code="STC"><img src="https://static.f2pool.com/assets/currencies/logo/stc-64x64.png?ver=0.8032724084603695">STC</a></div></div></div>
 </div>
 <button class="btn btn-link btn-elec d-flex justify-content-between align-items-center" aria-expanded="true">
 <div class="title">Electricity Price</div>
@@ -333,99 +333,11 @@ Filter
 </div>
 <div class="list-body">
 
-<div class="list-row row no-gutters align-items-center" data-name="Greatwolf Miner B3" data-id="318">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">Greatwolf Miner B3</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="RTX 2080 8 cards" data-id="126">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">RTX 2080 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1080Ti 8 cards" data-id="95">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">GTX 1080Ti 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="RX 5700XT 8 cards" data-id="320">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">RX 5700XT 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="RX 5700 8 cards" data-id="319">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">RX 5700 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="Greatwolf Miner B1+" data-id="317">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">Greatwolf Miner B1+</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="P104 8 cards" data-id="123">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">P104 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="Greatwolf Miner B1" data-id="316">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">Greatwolf Miner B1</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1660Ti 8 cards" data-id="322">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">GTX 1660Ti 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1070Ti 8 cards" data-id="93">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">GTX 1070Ti 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1660 8 cards" data-id="321">
-<div class="col">
-<span class="font-weight-bold font-weight-md-normal">GTX 1660 8 cards</span>
-
-<span class="d-block d-md-none">RVN</span>
-</div>
-</div>
-
 <div class="list-row row no-gutters align-items-center" data-name="GTX 1060 8 cards" data-id="53">
 <div class="col">
 <span class="font-weight-bold font-weight-md-normal">GTX 1060 8 cards</span>
 
-<span class="d-block d-md-none">RVN</span>
+<span class="d-block d-md-none">XVG-X17</span>
 </div>
 </div>
 
@@ -433,7 +345,23 @@ Filter
 <div class="col">
 <span class="font-weight-bold font-weight-md-normal">RX 580 8 cards</span>
 
-<span class="d-block d-md-none">RVN</span>
+<span class="d-block d-md-none">XVG-X17</span>
+</div>
+</div>
+
+<div class="list-row row no-gutters align-items-center" data-name="GTX 1080Ti 8 cards" data-id="95">
+<div class="col">
+<span class="font-weight-bold font-weight-md-normal">GTX 1080Ti 8 cards</span>
+
+<span class="d-block d-md-none">XVG-X17</span>
+</div>
+</div>
+
+<div class="list-row row no-gutters align-items-center" data-name="Vega64 8 cards" data-id="120">
+<div class="col">
+<span class="font-weight-bold font-weight-md-normal">Vega64 8 cards</span>
+
+<span class="d-block d-md-none">XVG-X17</span>
 </div>
 </div>
 
@@ -471,685 +399,25 @@ Electricity Cost Rate<span class="sortable" data-sort="elec_rate"></span> <span 
 </div>
 <div class="list-body">
 
-<div class="list-row row no-gutters align-items-center" data-name="Greatwolf Miner B3" data-id="318">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="210000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="22.596448" data-rule="formatPrice">
-22.60
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.980000" data-rule="formatPrice">
-1.98
-</span>
-</div>
-<div class="d-none d-md-inline-block">210<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-210<span class="unit">M</span>
-/ 1650<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1650<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-7.9<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-401.92192933<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="22.596448" data-rule="formatPrice">
-22.60
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.980000" data-rule="formatPrice">
-1.98
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="20.616448" data-rule="formatPrice_digit">
-20.62
-</span>
-<div class="d-block d-md-none">
-9<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 8.8%"></div>
-<span class="percent-text">9%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="RTX 2080 8 cards" data-id="126">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="206400000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="22.209080" data-rule="formatPrice">
-22.21
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.776000" data-rule="formatPrice">
-1.78
-</span>
-</div>
-<div class="d-none d-md-inline-block">206.4<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-206.4<span class="unit">M</span>
-/ 1480<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1480<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-7.2<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-395.03183911<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="22.209080" data-rule="formatPrice">
-22.21
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.776000" data-rule="formatPrice">
-1.78
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="20.433080" data-rule="formatPrice_digit">
-20.43
-</span>
-<div class="d-block d-md-none">
-8<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 8.0%"></div>
-<span class="percent-text">8%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1080Ti 8 cards" data-id="95">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="180000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="19.368384" data-rule="formatPrice">
-19.37
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="2.580000" data-rule="formatPrice">
-2.58
-</span>
-</div>
-<div class="d-none d-md-inline-block">180<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-180<span class="unit">M</span>
-/ 2150<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-2150<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-12<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-344.50451086<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="19.368384" data-rule="formatPrice">
-19.37
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="2.580000" data-rule="formatPrice">
-2.58
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="16.788384" data-rule="formatPrice_digit">
-16.79
-</span>
-<div class="d-block d-md-none">
-13<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 13.3%"></div>
-<span class="percent-text">13%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="RX 5700XT 8 cards" data-id="320">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="168000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="18.077158" data-rule="formatPrice">
-18.08
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.680000" data-rule="formatPrice">
-1.68
-</span>
-</div>
-<div class="d-none d-md-inline-block">168<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-168<span class="unit">M</span>
-/ 1400<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1400<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-8.3<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-321.53754347<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="18.077158" data-rule="formatPrice">
-18.08
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.680000" data-rule="formatPrice">
-1.68
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="16.397158" data-rule="formatPrice_digit">
-16.40
-</span>
-<div class="d-block d-md-none">
-9<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 9.3%"></div>
-<span class="percent-text">9%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="RX 5700 8 cards" data-id="319">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="160000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="17.216341" data-rule="formatPrice">
-17.22
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.680000" data-rule="formatPrice">
-1.68
-</span>
-</div>
-<div class="d-none d-md-inline-block">160<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-160<span class="unit">M</span>
-/ 1400<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1400<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-8.8<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-306.22623187<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="17.216341" data-rule="formatPrice">
-17.22
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.680000" data-rule="formatPrice">
-1.68
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="15.536341" data-rule="formatPrice_digit">
-15.54
-</span>
-<div class="d-block d-md-none">
-10<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 9.8%"></div>
-<span class="percent-text">10%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="Greatwolf Miner B1+" data-id="317">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="156000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="16.785933" data-rule="formatPrice">
-16.79
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.740000" data-rule="formatPrice">
-1.74
-</span>
-</div>
-<div class="d-none d-md-inline-block">156<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-156<span class="unit">M</span>
-/ 1450<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1450<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-9.3<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-298.57057608<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="16.785933" data-rule="formatPrice">
-16.79
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.740000" data-rule="formatPrice">
-1.74
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="15.045933" data-rule="formatPrice_digit">
-15.05
-</span>
-<div class="d-block d-md-none">
-10<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 10.4%"></div>
-<span class="percent-text">10%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="P104 8 cards" data-id="123">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="140000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="15.064299" data-rule="formatPrice">
-15.06
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.620000" data-rule="formatPrice">
-1.62
-</span>
-</div>
-<div class="d-none d-md-inline-block">140<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-140<span class="unit">M</span>
-/ 1350<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1350<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-9.6<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-267.94795289<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="15.064299" data-rule="formatPrice">
-15.06
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.620000" data-rule="formatPrice">
-1.62
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="13.444299" data-rule="formatPrice_digit">
-13.44
-</span>
-<div class="d-block d-md-none">
-11<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 10.8%"></div>
-<span class="percent-text">11%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="Greatwolf Miner B1" data-id="316">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="130000000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="13.988277" data-rule="formatPrice">
-13.99
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.500000" data-rule="formatPrice">
-1.50
-</span>
-</div>
-<div class="d-none d-md-inline-block">130<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-130<span class="unit">M</span>
-/ 1250<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1250<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-9.6<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-248.80881340<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="13.988277" data-rule="formatPrice">
-13.99
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.500000" data-rule="formatPrice">
-1.50
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="12.488277" data-rule="formatPrice_digit">
-12.49
-</span>
-<div class="d-block d-md-none">
-11<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 10.7%"></div>
-<span class="percent-text">11%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1660Ti 8 cards" data-id="322">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="106400000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="11.448867" data-rule="formatPrice">
-11.45
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.008000" data-rule="formatPrice">
-1.01
-</span>
-</div>
-<div class="d-none d-md-inline-block">106.4<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-106.4<span class="unit">M</span>
-/ 840<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-840<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-7.9<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-203.64044419<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="11.448867" data-rule="formatPrice">
-11.45
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.008000" data-rule="formatPrice">
-1.01
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="10.440867" data-rule="formatPrice_digit">
-10.44
-</span>
-<div class="d-block d-md-none">
-9<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 8.8%"></div>
-<span class="percent-text">9%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1070Ti 8 cards" data-id="93">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="106400000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="11.448867" data-rule="formatPrice">
-11.45
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.620000" data-rule="formatPrice">
-1.62
-</span>
-</div>
-<div class="d-none d-md-inline-block">106.4<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-106.4<span class="unit">M</span>
-/ 1350<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-1350<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-13<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-203.64044419<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="11.448867" data-rule="formatPrice">
-11.45
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.620000" data-rule="formatPrice">
-1.62
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="9.828867" data-rule="formatPrice_digit">
-9.83
-</span>
-<div class="d-block d-md-none">
-14<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 14.1%"></div>
-<span class="percent-text">14%</span>
-</div>
-</div>
-</div>
-
-<div class="list-row row no-gutters align-items-center" data-name="GTX 1660 8 cards" data-id="321">
-
-<div class="col d-none d-md-block" data-key="corrency_code">
-RVN
-</div>
-
-<div class="col" data-key="hashrate" data-val="85600000">
-<div class="d-block d-md-none font-weight-bold">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="9.210743" data-rule="formatPrice">
-9.21
-</span> / <span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.008000" data-rule="formatPrice">
-1.01
-</span>
-</div>
-<div class="d-none d-md-inline-block">85.6<span class="unit">M</span></div>
-<div class="d-block d-md-none">
-85.6<span class="unit">M</span>
-/ 840<span class="unit">W</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="power">
-840<span class="unit">W</span>
-</div>
-<div class="col d-none d-md-block" data-key="unit_power">
-9.8<span class="unit">W/M</span>
-</div>
-<div class="col d-none d-md-block" data-key="coins_24h">
-163.83103405<span class="unit">RVN</span>
-</div>
-<div class="col d-none d-md-block" data-key="revenue_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="9.210743" data-rule="formatPrice">
-9.21
-</span>
-</div>
-<div class="col d-none d-md-block" data-key="elec_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="1.008000" data-rule="formatPrice">
-1.01
-</span>
-</div>
-<div class="col" data-key="profit_24h">
-<span class="money-symbol">$</span>
-<span class="money-val" data-usd="8.202743" data-rule="formatPrice_digit">
-8.20
-</span>
-<div class="d-block d-md-none">
-11<span class="unit">%</span>
-</div>
-</div>
-<div class="col d-none d-md-block" data-key="elec_rate">
-<div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 10.9%"></div>
-<span class="percent-text">11%</span>
-</div>
-</div>
-</div>
-
 <div class="list-row row no-gutters align-items-center" data-name="GTX 1060 8 cards" data-id="53">
 
 <div class="col d-none d-md-block" data-key="corrency_code">
-RVN
+XVG-X17
 </div>
 
-<div class="col" data-key="hashrate" data-val="82400000">
+<div class="col" data-key="hashrate" data-val="56000000">
 <div class="d-block d-md-none font-weight-bold">
 <span class="money-symbol">$</span>
-<span class="money-val" data-usd="8.866416" data-rule="formatPrice">
-8.87
+<span class="money-val" data-usd="0.022440" data-rule="formatPrice">
+0.0224
 </span> / <span class="money-symbol">$</span>
 <span class="money-val" data-usd="1.908000" data-rule="formatPrice">
 1.91
 </span>
 </div>
-<div class="d-none d-md-inline-block">82.4<span class="unit">M</span></div>
+<div class="d-none d-md-inline-block">56<span class="unit">M</span></div>
 <div class="d-block d-md-none">
-82.4<span class="unit">M</span>
+56<span class="unit">M</span>
 / 1590<span class="unit">W</span>
 </div>
 </div>
@@ -1157,15 +425,15 @@ RVN
 1590<span class="unit">W</span>
 </div>
 <div class="col d-none d-md-block" data-key="unit_power">
-19<span class="unit">W/M</span>
+28<span class="unit">W/M</span>
 </div>
 <div class="col d-none d-md-block" data-key="coins_24h">
-157.70650941<span class="unit">RVN</span>
+1.16775264<span class="unit">XVG</span>
 </div>
 <div class="col d-none d-md-block" data-key="revenue_24h">
 <span class="money-symbol">$</span>
-<span class="money-val" data-usd="8.866416" data-rule="formatPrice">
-8.87
+<span class="money-val" data-usd="0.022440" data-rule="formatPrice">
+0.0224
 </span>
 </div>
 <div class="col d-none d-md-block" data-key="elec_24h">
@@ -1176,17 +444,17 @@ RVN
 </div>
 <div class="col" data-key="profit_24h">
 <span class="money-symbol">$</span>
-<span class="money-val" data-usd="6.958416" data-rule="formatPrice_digit">
-6.96
+<span class="money-val" data-usd="-1.885560" data-rule="formatPrice_digit">
+-1.89
 </span>
 <div class="d-block d-md-none">
-22<span class="unit">%</span>
+8503<span class="unit">%</span>
 </div>
 </div>
 <div class="col d-none d-md-block" data-key="elec_rate">
 <div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 21.5%"></div>
-<span class="percent-text">22%</span>
+<div class="progress-bar bg-4" role="progressbar" style="width: 8502.7%"></div>
+<span class="percent-text">8503%</span>
 </div>
 </div>
 </div>
@@ -1194,22 +462,22 @@ RVN
 <div class="list-row row no-gutters align-items-center" data-name="RX 580 8 cards" data-id="43">
 
 <div class="col d-none d-md-block" data-key="corrency_code">
-RVN
+XVG-X17
 </div>
 
-<div class="col" data-key="hashrate" data-val="82400000">
+<div class="col" data-key="hashrate" data-val="56000000">
 <div class="d-block d-md-none font-weight-bold">
 <span class="money-symbol">$</span>
-<span class="money-val" data-usd="8.866416" data-rule="formatPrice">
-8.87
+<span class="money-val" data-usd="0.022440" data-rule="formatPrice">
+0.0224
 </span> / <span class="money-symbol">$</span>
 <span class="money-val" data-usd="1.956000" data-rule="formatPrice">
 1.96
 </span>
 </div>
-<div class="d-none d-md-inline-block">82.4<span class="unit">M</span></div>
+<div class="d-none d-md-inline-block">56<span class="unit">M</span></div>
 <div class="d-block d-md-none">
-82.4<span class="unit">M</span>
+56<span class="unit">M</span>
 / 1630<span class="unit">W</span>
 </div>
 </div>
@@ -1217,15 +485,15 @@ RVN
 1630<span class="unit">W</span>
 </div>
 <div class="col d-none d-md-block" data-key="unit_power">
-20<span class="unit">W/M</span>
+29<span class="unit">W/M</span>
 </div>
 <div class="col d-none d-md-block" data-key="coins_24h">
-157.70650941<span class="unit">RVN</span>
+1.16775264<span class="unit">XVG</span>
 </div>
 <div class="col d-none d-md-block" data-key="revenue_24h">
 <span class="money-symbol">$</span>
-<span class="money-val" data-usd="8.866416" data-rule="formatPrice">
-8.87
+<span class="money-val" data-usd="0.022440" data-rule="formatPrice">
+0.0224
 </span>
 </div>
 <div class="col d-none d-md-block" data-key="elec_24h">
@@ -1236,17 +504,137 @@ RVN
 </div>
 <div class="col" data-key="profit_24h">
 <span class="money-symbol">$</span>
-<span class="money-val" data-usd="6.910416" data-rule="formatPrice_digit">
-6.91
+<span class="money-val" data-usd="-1.933560" data-rule="formatPrice_digit">
+-1.93
 </span>
 <div class="d-block d-md-none">
-22<span class="unit">%</span>
+8717<span class="unit">%</span>
 </div>
 </div>
 <div class="col d-none d-md-block" data-key="elec_rate">
 <div class="progress">
-<div class="progress-bar bg-1" role="progressbar" style="width: 22.1%"></div>
-<span class="percent-text">22%</span>
+<div class="progress-bar bg-4" role="progressbar" style="width: 8716.6%"></div>
+<span class="percent-text">8717%</span>
+</div>
+</div>
+</div>
+
+<div class="list-row row no-gutters align-items-center" data-name="GTX 1080Ti 8 cards" data-id="95">
+
+<div class="col d-none d-md-block" data-key="corrency_code">
+XVG-X17
+</div>
+
+<div class="col" data-key="hashrate" data-val="120000000">
+<div class="d-block d-md-none font-weight-bold">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="0.048086" data-rule="formatPrice">
+0.0481
+</span> / <span class="money-symbol">$</span>
+<span class="money-val" data-usd="2.580000" data-rule="formatPrice">
+2.58
+</span>
+</div>
+<div class="d-none d-md-inline-block">120<span class="unit">M</span></div>
+<div class="d-block d-md-none">
+120<span class="unit">M</span>
+/ 2150<span class="unit">W</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="power">
+2150<span class="unit">W</span>
+</div>
+<div class="col d-none d-md-block" data-key="unit_power">
+18<span class="unit">W/M</span>
+</div>
+<div class="col d-none d-md-block" data-key="coins_24h">
+2.50232710<span class="unit">XVG</span>
+</div>
+<div class="col d-none d-md-block" data-key="revenue_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="0.048086" data-rule="formatPrice">
+0.0481
+</span>
+</div>
+<div class="col d-none d-md-block" data-key="elec_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="2.580000" data-rule="formatPrice">
+2.58
+</span>
+</div>
+<div class="col" data-key="profit_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="-2.531914" data-rule="formatPrice_digit">
+-2.53
+</span>
+<div class="d-block d-md-none">
+5365<span class="unit">%</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="elec_rate">
+<div class="progress">
+<div class="progress-bar bg-4" role="progressbar" style="width: 5365.4%"></div>
+<span class="percent-text">5365%</span>
+</div>
+</div>
+</div>
+
+<div class="list-row row no-gutters align-items-center" data-name="Vega64 8 cards" data-id="120">
+
+<div class="col d-none d-md-block" data-key="corrency_code">
+XVG-X17
+</div>
+
+<div class="col" data-key="hashrate" data-val="96000000">
+<div class="d-block d-md-none font-weight-bold">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="0.038469" data-rule="formatPrice">
+0.0385
+</span> / <span class="money-symbol">$</span>
+<span class="money-val" data-usd="3.060000" data-rule="formatPrice">
+3.06
+</span>
+</div>
+<div class="d-none d-md-inline-block">96<span class="unit">M</span></div>
+<div class="d-block d-md-none">
+96<span class="unit">M</span>
+/ 2550<span class="unit">W</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="power">
+2550<span class="unit">W</span>
+</div>
+<div class="col d-none d-md-block" data-key="unit_power">
+27<span class="unit">W/M</span>
+</div>
+<div class="col d-none d-md-block" data-key="coins_24h">
+2.00186168<span class="unit">XVG</span>
+</div>
+<div class="col d-none d-md-block" data-key="revenue_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="0.038469" data-rule="formatPrice">
+0.0385
+</span>
+</div>
+<div class="col d-none d-md-block" data-key="elec_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="3.060000" data-rule="formatPrice">
+3.06
+</span>
+</div>
+<div class="col" data-key="profit_24h">
+<span class="money-symbol">$</span>
+<span class="money-val" data-usd="-3.021531" data-rule="formatPrice_digit">
+-3.02
+</span>
+<div class="d-block d-md-none">
+7954<span class="unit">%</span>
+</div>
+</div>
+<div class="col d-none d-md-block" data-key="elec_rate">
+<div class="progress">
+<div class="progress-bar bg-4" role="progressbar" style="width: 7954.5%"></div>
+<span class="percent-text">7954%</span>
 </div>
 </div>
 </div>
@@ -1937,7 +1325,7 @@ Please Note:&nbsp; <span class="comment-content">This calculator uses the curren
 </div>
 </div>
 </div>
-<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;6740652e6be2296e&quot;,&quot;token&quot;:&quot;721305da1c9442eeaf0f485d9a99178a&quot;,&quot;version&quot;:&quot;2021.7.0&quot;,&quot;si&quot;:10}"></script>
+<script defer="" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon="{&quot;rayId&quot;:&quot;674157f638862c07&quot;,&quot;token&quot;:&quot;721305da1c9442eeaf0f485d9a99178a&quot;,&quot;version&quot;:&quot;2021.7.0&quot;,&quot;si&quot;:10}"></script>
 
 <script type="text/javascript" src="https://static.f2pool.com/static/js/jquery-3.2.1.min.js?v=a09e13ee94d51c524b7e2a728c7d4039"></script>
 <script type="text/javascript" src="https://static.f2pool.com/static/js/popper-1.16.1.min.js?v=1db8fd79ce2e5d14918726b61342318e"></script>

@@ -6,12 +6,15 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 
+
 def CrawlPools():
     PATH = '/usr/local/bin/chromedriver'
     driver = webdriver.Chrome(PATH)
 
     driver.get("https://miningpoolstats.stream/")
-    time.sleep(5)
+    WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "coins"))
+    )
 
     sys.stdout = open("CoinStats/home.txt", "w")
     print(driver.page_source)
@@ -30,13 +33,16 @@ def CrawlPools():
     for name in linkNames:
         driver.find_element_by_link_text(name).click()
         try:
-            element = WebDriverWait(driver, 10).until(
+            WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.ID, "pools"))
             )
             table = driver.page_source
             sys.stdout = open("PoolStats/" + name + ".txt", "w")
             print(table)
             driver.back()
+            WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.ID, "coins"))
+            )
         except:
             print()
 
@@ -49,7 +55,9 @@ def CrawlMiners():
     driver = webdriver.Chrome(PATH)
 
     driver.get("https://www.f2pool.com/miners")
-    time.sleep(5)
+    element = WebDriverWait(driver, 10).until(
+        EC.element_to_be_clickable((By.ID, "listContainer"))
+    )
     links = driver.find_element_by_class_name('dropdown-miner-list').find_elements_by_class_name('dropdown-item')
 
     for link in links:

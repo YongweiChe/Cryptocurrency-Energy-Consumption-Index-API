@@ -1,5 +1,4 @@
 from bs4 import BeautifulSoup
-from datetime import datetime
 from main import db
 from main import Pool, Coin, Miner, Algorithm
 import os
